@@ -1,0 +1,493 @@
+[
+    {
+        "text": "",
+        "color": "#a56e34",
+        "created": "20150222125236877",
+        "icon": "$:/.images/route",
+        "id": "1",
+        "id_type": "routetype_id",
+        "modified": "20150303211124940",
+        "tags": "[[types de routes]]",
+        "title": "Chemin"
+    },
+    {
+        "text": "Cet ordre de chevalerie, très lié à la couronne talkéride, est voué à la lutte contre les feondas et peut à l'occasion assurer la régence d'un domaine.",
+        "created": "20150305232345646",
+        "id": "14",
+        "id_type": "faction_id",
+        "modified": "20150323143456803",
+        "tags": "factions",
+        "title": "Chevaliers Hilderins"
+    },
+    {
+        "text": "Les Ronces sont un ordre très ancien dont les activités sont partagées entre la lutte contre les feondas et la gestion d'organismes bancaires.",
+        "created": "20150305232318695",
+        "id": "13",
+        "id_type": "faction_id",
+        "modified": "20150323143425355",
+        "tags": "factions",
+        "title": "Chevaliers Ronces"
+    },
+    {
+        "text": "",
+        "color": "#63180e",
+        "created": "20150222101632755",
+        "icon": "$:/.icons/maps/cité.png",
+        "id": "1",
+        "id_type": "markertype_id",
+        "modified": "20150303212309195",
+        "tags": "[[types de marqueurs]]",
+        "title": "Cité"
+    },
+    {
+        "text": "",
+        "color": "",
+        "created": "20150328132757841",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "id_zoneCollines",
+        "id_type": "zonetype_id",
+        "modified": "20150424133447081",
+        "tags": "[[types de zones]]",
+        "title": "Collines"
+    },
+    {
+        "text": "Les populations honorant les cultes et traditions ancestrales de Tri-Kazel.",
+        "created": "20150302132429049",
+        "id": "3",
+        "id_type": "faction_id",
+        "modified": "20150303212752111",
+        "tags": "factions",
+        "title": "Demorthèn"
+    },
+    {
+        "text": "",
+        "color": "#bba748",
+        "created": "20150222125830723",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "4",
+        "id_type": "zonetype_id",
+        "modified": "20150303213126631",
+        "tags": "[[types de zones]]",
+        "title": "Domaine"
+    },
+    {
+        "created": "20150409074315782",
+        "text": "",
+        "color": "",
+        "icon": "$:/.images/marker",
+        "id": "id_markerÉtablissement",
+        "id_type": "markertype_id",
+        "modified": "20150424205501377",
+        "tags": "[[types de marqueurs]]",
+        "title": "Établissement"
+    },
+    {
+        "text": "",
+        "color": "#756098",
+        "created": "20150222125535648",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "11",
+        "id_type": "zonetype_id",
+        "modified": "20150303213119104",
+        "tags": "[[types de zones]]",
+        "title": "Failles / Falaises"
+    },
+    {
+        "text": "",
+        "color": "#669d4e",
+        "created": "20150222125609717",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "8",
+        "id_type": "zonetype_id",
+        "modified": "20150303213111140",
+        "tags": "[[types de zones]]",
+        "title": "Forêt"
+    },
+    {
+        "text": "",
+        "color": "#b9b7b7",
+        "created": "20150222101729970",
+        "icon": "$:/.icons/maps/fortifications.png",
+        "id": "6",
+        "id_type": "markertype_id",
+        "modified": "20150303212300848",
+        "tags": "[[types de marqueurs]]",
+        "title": "Fortifications (châteaux, angardes, rosace)"
+    },
+    {
+        "text": "",
+        "color": "#6367aa",
+        "created": "20150222125502566",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "14",
+        "id_type": "zonetype_id",
+        "modified": "20150303213102891",
+        "tags": "[[types de zones]]",
+        "title": "Île(s)"
+    },
+    {
+        "text": "",
+        "color": "#9f8f50",
+        "created": "20150222130045560",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "12",
+        "id_type": "zonetype_id",
+        "modified": "20150303213053711",
+        "tags": "[[types de zones]]",
+        "title": "Landes"
+    },
+    {
+        "text": "",
+        "color": "",
+        "created": "20150328132648740",
+        "icon": "$:/.images/route",
+        "id": "id_routeLiaisonMaritime",
+        "id_type": "routetype_id",
+        "modified": "20150424134144278",
+        "tags": "[[types de routes]]",
+        "title": "Liaison maritime"
+    },
+    {
+        "created": "20150307233445021",
+        "text": "",
+        "color": "",
+        "icon": "$:/.images/marker",
+        "id": "id_markerHanté",
+        "id_type": "markertype_id",
+        "modified": "20150424205455463",
+        "tags": "[[types de marqueurs]]",
+        "title": "Lieu hanté ou maudit"
+    },
+    {
+        "text": "Les partisans d'une société régie par des principes académiques & scientifiques. ",
+        "created": "20150302132443705",
+        "id": "2",
+        "id_type": "faction_id",
+        "modified": "20150303212735104",
+        "tags": "factions",
+        "title": "Magience"
+    },
+    {
+        "text": "",
+        "color": "#748f43",
+        "created": "20150302125709732",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "9",
+        "id_type": "zonetype_id",
+        "modified": "20150323140720835",
+        "tags": "[[types de zones]]",
+        "title": "Marais"
+    },
+    {
+        "text": "Les marchands sont essentiellement pragmatiques : partisans de la circulation des biens et des personnes, et de législations qui leur permettent de s'enrichir. Ils peuvent s'accommoder d'un peu de corruption, mais veulent des routes sûres. ",
+        "created": "20150302132558952",
+        "id": "10",
+        "id_type": "faction_id",
+        "modified": "20150303212726562",
+        "tags": "factions",
+        "title": "Marchand"
+    },
+    {
+        "text": "",
+        "color": "#f9f9f9",
+        "created": "20150414124142497",
+        "icon": "$:/core/images/blank",
+        "id": "id_markerInvisible",
+        "id_type": "markertype_id",
+        "modified": "20150424134413347",
+        "tags": "[[types de marqueurs]]",
+        "title": "Marqueur invisible"
+    },
+    {
+        "text": "",
+        "color": "#7099e4",
+        "created": "20150302125744424",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "13",
+        "id_type": "zonetype_id",
+        "modified": "20150323140849179",
+        "tags": "[[types de zones]]",
+        "title": "Mer, lac"
+    },
+    {
+        "text": "Plusieurs courants se partagent ou se disputent les lieux sans qu'il soit véritablement possible de discerner la domination de l'un d'eux. ",
+        "created": "20150302132624550",
+        "id": "11",
+        "id_type": "faction_id",
+        "modified": "20150303212719309",
+        "tags": "factions",
+        "title": "Mixte"
+    },
+    {
+        "text": "",
+        "color": "#a6a6a6",
+        "created": "20150302125722940",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "10",
+        "id_type": "zonetype_id",
+        "modified": "20150323140759284",
+        "tags": "[[types de zones]]",
+        "title": "Montagnes"
+    },
+    {
+        "text": "Aucun des grands courants idéologiques ne dominent ce lieu. ",
+        "created": "20150302132639551",
+        "id": "4",
+        "id_type": "faction_id",
+        "modified": "20150303212712147",
+        "tags": "factions",
+        "title": "Neutre"
+    },
+    {
+        "text": "La noblesse défend des valeurs de tradition, hiérarchie, autorité. Certains nobles sont très dévoués à leur souverain, d'autres estiment qu'ils sont seuls maîtres sur leurs terres. ",
+        "created": "20150302132704070",
+        "id": "9",
+        "id_type": "faction_id",
+        "modified": "20150303212704735",
+        "tags": "factions",
+        "title": "Noblesse"
+    },
+    {
+        "text": "Rattachés au culte demorthèn, les Osags en sont peut-être l'expression la plus radicale. ",
+        "created": "20150302132721238",
+        "id": "5",
+        "id_type": "faction_id",
+        "modified": "20150303212657489",
+        "tags": "factions",
+        "title": "Osags"
+    },
+    {
+        "text": "",
+        "color": "#58392d",
+        "created": "20150222101828169",
+        "icon": "$:/.icons/maps/carrefour.png",
+        "id": "3",
+        "id_type": "markertype_id",
+        "modified": "20150424131331102",
+        "tags": "[[types de marqueurs]]",
+        "title": "Passage"
+    },
+    {
+        "text": "",
+        "color": "",
+        "created": "20150328132827280",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "id_zonePlage(s)",
+        "id_type": "zonetype_id",
+        "modified": "20150424134021328",
+        "tags": "[[types de zones]]",
+        "title": "Plage(s)"
+    },
+    {
+        "text": "",
+        "color": "",
+        "created": "20150328132725933",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "id_zonePlaine(s)",
+        "id_type": "zonetype_id",
+        "modified": "20150424134007032",
+        "tags": "[[types de zones]]",
+        "title": "Plaine(s)"
+    },
+    {
+        "text": "",
+        "color": "",
+        "created": "20150328132816685",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "id_zonePlateau",
+        "id_type": "zonetype_id",
+        "modified": "20150424133853530",
+        "tags": "[[types de zones]]",
+        "title": "Plateau"
+    },
+    {
+        "text": "",
+        "color": "#eeeeee",
+        "created": "20150302085007335",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "1",
+        "id_type": "zonetype_id",
+        "modified": "20150303213021538",
+        "tags": "[[types de zones]]",
+        "title": "Politique"
+    },
+    {
+        "text": "",
+        "color": "#101942",
+        "created": "20150222101524822",
+        "icon": "$:/.icons/maps/port.png",
+        "id": "2",
+        "id_type": "markertype_id",
+        "modified": "20150303212252997",
+        "tags": "[[types de marqueurs]]",
+        "title": "Port (village côtier, ...)"
+    },
+    {
+        "text": "Les individus qui dominent sont en rupture avec la société, pour des raisons d'intérêt ou d'opinion. Le territoire est une zone grise, où la violence est endémique. ",
+        "created": "20150302132750586",
+        "id": "12",
+        "id_type": "faction_id",
+        "modified": "20150303212649830",
+        "tags": "factions",
+        "title": "Rebelles & Criminels"
+    },
+    {
+        "text": "",
+        "color": "#c7bfb7",
+        "created": "20150222125322912",
+        "icon": "$:/.images/route",
+        "id": "2",
+        "id_type": "routetype_id",
+        "modified": "20150303211115554",
+        "tags": "[[types de routes]]",
+        "title": "Route"
+    },
+    {
+        "text": "",
+        "color": "#e05151",
+        "created": "20150222125729891",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "2",
+        "id_type": "zonetype_id",
+        "modified": "20150303213013287",
+        "tags": "[[types de zones]]",
+        "title": "Royaume"
+    },
+    {
+        "text": "",
+        "color": "#194b2b",
+        "created": "20150222101757513",
+        "icon": "$:/.icons/maps/sanctuaire.png",
+        "id": "4",
+        "id_type": "markertype_id",
+        "modified": "20150303212245359",
+        "tags": "[[types de marqueurs]]",
+        "title": "Sanctuaire"
+    },
+    {
+        "text": "",
+        "color": "#c2b04c",
+        "created": "20150222125347732",
+        "icon": "$:/.images/route",
+        "id": "3",
+        "id_type": "routetype_id",
+        "modified": "20150303211106996",
+        "tags": "[[types de routes]]",
+        "title": "Sentier de loup"
+    },
+    {
+        "text": "",
+        "color": "#00492d",
+        "created": "20150222101701930",
+        "icon": "$:/.icons/maps/site-intérêt.png",
+        "id": "5",
+        "id_type": "markertype_id",
+        "modified": "20150303212237549",
+        "tags": "[[types de marqueurs]]",
+        "title": "Site d'intérêt"
+    },
+    {
+        "text": "",
+        "color": "#b5b3b3",
+        "created": "20150222101922023",
+        "icon": "$:/.icons/maps/souterrain.png",
+        "id": "7",
+        "id_type": "markertype_id",
+        "modified": "20150303212227467",
+        "tags": "[[types de marqueurs]]",
+        "title": "Souterrain (mine, cité troglodyte, réseau de cavernes)"
+    },
+    {
+        "text": "Peuple nomade par excellence, ses communautés sont en mouvement constant.",
+        "created": "20150302132736677",
+        "id": "6",
+        "id_type": "faction_id",
+        "modified": "20150303212642094",
+        "tags": "factions",
+        "title": "Tarish"
+    },
+    {
+        "text": "Les adeptes de la religion de l'Unique. ",
+        "created": "20150302132414056",
+        "id": "1",
+        "id_type": "faction_id",
+        "modified": "20150323141610429",
+        "tags": "factions",
+        "title": "Temple"
+    },
+    {
+        "text": "",
+        "color": "#eeeeee",
+        "created": "20150302125658731",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "7",
+        "id_type": "zonetype_id",
+        "modified": "20150323140959459",
+        "tags": "[[types de zones]]",
+        "title": "Terrain"
+    },
+    {
+        "text": "",
+        "color": "#cca9d9",
+        "created": "20150302125625733",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "6",
+        "id_type": "zonetype_id",
+        "modified": "20150323140608182",
+        "tags": "[[types de zones]]",
+        "title": "Terre sacrée"
+    },
+    {
+        "text": "",
+        "color": "#e4aa8e",
+        "created": "20150222125659932",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "3",
+        "id_type": "zonetype_id",
+        "modified": "20150303212933847",
+        "tags": "[[types de zones]]",
+        "title": "Territoire"
+    },
+    {
+        "text": "Ces guides et messagers arpentent les chemins de la péninsule, assurant le lien entre les communautés les plus isolées. Ils connaissent souvent des raccourcis.",
+        "created": "20150305232334829",
+        "id": "15",
+        "id_type": "faction_id",
+        "modified": "20150323143520545",
+        "tags": "factions",
+        "title": "Varigaux"
+    },
+    {
+        "created": "20150308074232477",
+        "text": "",
+        "color": "",
+        "icon": "$:/.images/marker",
+        "id": "id_markerVillage",
+        "id_type": "markertype_id",
+        "modified": "20150424205449249",
+        "tags": "[[types de marqueurs]]",
+        "title": "Village"
+    },
+    {
+        "text": "",
+        "color": "#f1e091",
+        "created": "20150222125919139",
+        "icon": "$:/core/images/full-screen-button",
+        "id": "5",
+        "id_type": "zonetype_id",
+        "modified": "20150303212925343",
+        "tags": "[[types de zones]]",
+        "title": "Ville / Village"
+    },
+    {
+        "text": "",
+        "color": "",
+        "created": "20150305232106002",
+        "icon": "$:/.images/route",
+        "id": "id_routeVoieFluviale",
+        "id_type": "routetype_id",
+        "modified": "20150424134130918",
+        "tags": "[[types de routes]]",
+        "title": "Voie fluviale"
+    }
+]

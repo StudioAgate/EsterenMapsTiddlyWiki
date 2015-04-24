@@ -1,18 +1,1 @@
-[
-    {
-        "text": "Cette route, qui mène de Baldh-Ruoch à Kell en traversant la forêt de Taelwald, est un sujet de tension entre les magientistes, qui souhaiteraient la développer pour favoriser l'essor économique de Kell, et les demorthèn, qui veulent protéger la forêt.",
-        "created": "20150318135204506",
-        "categorie": "cartographie",
-        "faction_id": "11",
-        "id": "id_Route de Baldh-Ruoch à Kell",
-        "map_id": "1",
-        "markerend_id": "id_Kell",
-        "markerstart_id": "42",
-        "modified": "20150329214329151",
-        "routetype_id": "2",
-        "tags": "routes",
-        "title": "Route de Baldh-Ruoch à Kell",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à intégrer"
-    }
-]
+[]
