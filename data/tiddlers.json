@@ -18,7 +18,7 @@
         "categorie": "cartographie",
         "created": "20150306120918298",
         "faction_id": "4",
-        "id": "108",
+        "id": "107",
         "map_id": "1",
         "markertype_id": "9",
         "modified": "20150711170802487",
@@ -50,10 +50,10 @@
         "map_id": "1",
         "markertype_id": "11",
         "modified": "20150715211143541",
+        "status": "à revoir",
         "tags": "marqueurs",
         "title": "Afalinn",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "Le plus haut sommet de Taol-Kaer est surnommé ainsi en raison de sa silhouette effilée.",
@@ -99,8 +99,8 @@
     },
     {
         "text": "Ce vieil orme, isolé dans la forêt de Taelwald, possède un feuillage étrange qui varie quotidiennement du vert le matin au rouge le soir. Les demorthèn de la région y célèbrent les esprits le jour de l'équinoxe d'automne.",
-        "created": "20150326112940112",
         "categorie": "cartographie",
+        "created": "20150326112940112",
         "faction_id": "3",
         "id": "id_L'Arbre de l'Automne",
         "map_id": "1",
@@ -109,7 +109,7 @@
         "status": "à intégrer",
         "tags": "marqueurs",
         "title": "Arbre de l'Automne",
-        "zoneparent_id": "56"
+        "zoneparent_id": "49"
     },
     {
         "text": "Cet archipel est constitué de petits îlots et de pics isolés au large du nord de la péninsule, dont trois sont des volcans actifs. On voit la nuit les reflets des éruptions qui, avec les geysers, s'opposent aux températures hivernales glaciales pour rendre le climat imprévisible. Les principaux attraits de l'archipel sont ses eaux poissonneuses, les cendres, les pierres ponces et le soufre, ainsi que les sources chaudes curatives.",
@@ -130,7 +130,7 @@
         "categorie": "cartographie",
         "created": "20150406082154666",
         "faction_id": "3",
-        "id": "53",
+        "id": "46",
         "map_id": "1",
         "modified": "20150711113606035",
         "status": "à placer",
@@ -182,6 +182,34 @@
         "zoneparent_id": "id_Duché de Tulg"
     },
     {
+        "text": "",
+        "categorie": "cartographie",
+        "faction_id": "",
+        "id": "id_Bac à l'embouchure du Kreizhdour, côté gwidrite",
+        "map_id": "1",
+        "markerparent_id": "",
+        "markertype_id": "10",
+        "modified": "20150717182653366",
+        "status": "à intégrer",
+        "tags": "marqueurs",
+        "title": "Bac à l'embouchure du Kreizhdour, côté gwidrite",
+        "zoneparent_id": "id_Gwidre"
+    },
+    {
+        "text": "",
+        "categorie": "cartographie",
+        "faction_id": "",
+        "id": "id_Bac à l'embouchure du Kreizhdour, côté talkéride",
+        "map_id": "1",
+        "markerparent_id": "",
+        "markertype_id": "10",
+        "modified": "20150717182654045",
+        "status": "à intégrer",
+        "tags": "marqueurs",
+        "title": "Bac à l'embouchure du Kreizhdour, côté talkéride",
+        "zoneparent_id": "25"
+    },
+    {
         "text": "Le bagne du Clos-des-Cendres est installé sur l'une des îles orientales de l'Archipel des Cendres. Les condamnés y travaillent dans les conditions difficiles qu'impliquent un environnement volcanique.",
         "categorie": "cartographie",
         "created": "20150408073916916",
@@ -205,10 +233,10 @@
         "map_id": "1",
         "markertype_id": "1",
         "modified": "20150715211139112",
+        "status": "à revoir",
         "tags": "marqueurs",
         "title": "Baldh-Ruoch",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "Ces bois, assez communs au premier abord, renferment de nombreux mystères. Certains voyageurs qui semblaient y être entrés depuis des jours en sont revenus comme si seulement quelques heures s'étaient écoulées pour eux. Les légendes racontent que l'ancien liagcal du sud s'y trouve, mais qu'il serait mystérieusement perdu. À ce jour, les recherches n'ont abouti qu'à des disparitions.",
@@ -263,13 +291,13 @@
         "status": "à placer",
         "tags": "zones",
         "title": "Bolcànir",
-        "zoneparent_id": "53",
+        "zoneparent_id": "46",
         "zonetype_id": "14"
     },
     {
         "text": "Ce petit bourg s'est considérablement développé et enrichi grâce à ses artisans souffleurs de verre, qui depuis un siècle le préfèrent à Koskan la corrompue. Son seigneur, Alanforth de Brégan, est très présent à la cour royale et porte le titre de Duc.",
-        "created": "20150327115843321",
         "categorie": "cartographie",
+        "created": "20150327115843321",
         "faction_id": "10",
         "id": "id_Brégan",
         "map_id": "1",
@@ -310,17 +338,17 @@
     },
     {
         "text": "Ce cap, entre la pointe de Hòb et les Épavières, est encombré de nombreux récifs qui rendent l'étroit chenal entre la Mer des Linceuls et l'Océan Furieux quasiment infranchissable.",
-        "created": "20150330075757296",
         "categorie": "cartographie",
+        "created": "20150330075757296",
         "faction_id": "4",
         "id": "77",
         "map_id": "1",
         "markertype_id": "5",
         "modified": "20150715192353088",
+        "status": "à intégrer",
         "tags": "marqueurs",
         "title": "Cap des Adieux",
-        "zoneparent_id": "25",
-        "status": "à intégrer"
+        "zoneparent_id": "25"
     },
     {
         "text": "Ce village situé en bordure des terres de Dèas est le principal comptoir commercial osag, ce qui évite que des étrangers n'entrent plus avant dans leur territoire en dehors de la foire annuelle de Deanaidh.",
@@ -368,6 +396,20 @@
     {
         "text": "",
         "categorie": "cartographie",
+        "faction_id": "",
+        "id": "id_Carrefour de Jarnel sur le chemin de Ruel",
+        "map_id": "1",
+        "markerparent_id": "",
+        "markertype_id": "10",
+        "modified": "20150717182656824",
+        "status": "à intégrer",
+        "tags": "marqueurs",
+        "title": "Carrefour de Jarnel sur le chemin de Ruel",
+        "zoneparent_id": "25"
+    },
+    {
+        "text": "",
+        "categorie": "cartographie",
         "created": "20150529081649689",
         "faction_id": "",
         "id": "86",
@@ -395,40 +437,54 @@
         "zoneparent_id": "id_Royaume de Reizh"
     },
     {
-        "text": "La pierre levée qui orne ce carrefour abriterait la tombe du grand demorthèn légendaire de l'antiquité, Ruel, qui serait mort ici en combattant un feond \"plus haut que la cime des arbres\". ",
-        "created": "20150327120852286",
+        "text": "",
         "categorie": "cartographie",
+        "faction_id": "",
+        "id": "id_Carrefour de Promesse sur la Route royale",
+        "map_id": "1",
+        "markerparent_id": "",
+        "markertype_id": "10",
+        "modified": "20150717182656244",
+        "status": "à intégrer",
+        "tags": "marqueurs",
+        "title": "Carrefour de Promesse sur la Route royale",
+        "zoneparent_id": "id_Royaume de Reizh"
+    },
+    {
+        "text": "La pierre levée qui orne ce carrefour abriterait la tombe du grand demorthèn légendaire de l'antiquité, Ruel, qui serait mort ici en combattant un feond \"plus haut que la cime des arbres\". ",
+        "categorie": "cartographie",
+        "created": "20150327120852286",
         "faction_id": "4",
         "id": "62",
         "map_id": "1",
         "markertype_id": "3",
         "modified": "20150715192935333",
+        "status": "à intégrer",
         "tags": "marqueurs",
         "title": "Carrefour de Ruel",
-        "zoneparent_id": "25",
-        "status": "à intégrer"
+        "zoneparent_id": "25"
     },
     {
         "text": "",
-        "created": "20150715200110270",
-        "title": "Carrefour des Pierres Brisées sur la route du Dorchwald",
-        "tags": "marqueurs",
         "categorie": "cartographie",
-        "map_id": "1",
-        "id": "id_Carrefour des Pierres Brisées sur la route du Dorchwald",
-        "markertype_id": "10",
+        "created": "20150715200110270",
         "faction_id": "",
-        "zoneparent_id": "id_Gwidre",
+        "id": "id_Carrefour des Pierres Brisées sur la route du Dorchwald",
+        "map_id": "1",
         "markerparent_id": "",
+        "markertype_id": "10",
         "modified": "20150715200544839",
-        "status": "à intégrer"
+        "status": "à intégrer",
+        "tags": "marqueurs",
+        "title": "Carrefour des Pierres Brisées sur la route du Dorchwald",
+        "zoneparent_id": "id_Gwidre"
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150604081515345",
         "faction_id": "",
-        "id": "109",
+        "id": "108",
         "map_id": "1",
         "markerparent_id": "",
         "markertype_id": "10",
@@ -470,8 +526,8 @@
     },
     {
         "text": "Ces carrières sont le seul endroit de tout Tri-Kazel où l'albanite est extraite. La puissante guilde de Báncloch dirigée par la famille Mac Mannàn, propriétaire des lieux, y exerce son pouvoir par la force, au mépris des ouvriers dont les conditions de travail sont déplorables.",
-        "created": "20150706105520968",
         "categorie": "cartographie",
+        "created": "20150706105520968",
         "faction_id": "9",
         "id": "id_Carrières d'Arden",
         "map_id": "1",
@@ -484,9 +540,9 @@
         "zoneparent_id": "id_Gwidre"
     },
     {
-        "created": "20150319122711038",
         "text": "Ces carrières sont célèbres pour leur marbre blanc de grande qualité, prisé jusqu'en Taol-Kaer mais surtout convoité par le Temple. Ce dernier a perdu depuis peu une partie du contrôle des carrières, au profit de la couronne gwidrite.",
         "categorie": "cartographie",
+        "created": "20150319122711038",
         "faction_id": "11",
         "id": "id_Carrières de Norgord",
         "map_id": "1",
@@ -498,9 +554,9 @@
         "zoneparent_id": "41"
     },
     {
-        "created": "20150327121316924",
         "text": "L'architecture de cette bâtisse, perchée au sommet d'un pic, surprend par ses ornementations arachnéennes et ses flèches blanches qui s'élancent à l'assaut du ciel. Il n'existe pas de chemin pour s'y rendre, et l'on dit que ce ne sont pas les hommes qui l'ont construite.",
         "categorie": "cartographie",
+        "created": "20150327121316924",
         "faction_id": "4",
         "id": "89",
         "map_id": "1",
@@ -512,9 +568,9 @@
         "zoneparent_id": "25"
     },
     {
-        "created": "20150327121455707",
         "text": "Un étrange château abandonné. Il est si ancien que personne ne se rappelle qui l'a érigé.",
         "categorie": "cartographie",
+        "created": "20150327121455707",
         "faction_id": "4",
         "id": "id_Castel des Roseaux",
         "map_id": "1",
@@ -558,7 +614,7 @@
         "categorie": "cartographie",
         "created": "20150602083656363",
         "faction_id": "9",
-        "id": "110",
+        "id": "109",
         "map_id": "1",
         "markerparent_id": "",
         "markertype_id": "6",
@@ -577,10 +633,10 @@
         "map_id": "1",
         "markertype_id": "6",
         "modified": "20150715211134624",
+        "status": "à revoir",
         "tags": "marqueurs",
         "title": "Château des Roharën",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "",
@@ -642,6 +698,22 @@
         "tags": "routes",
         "title": "Chemin des Hauts-Vents (du Gué Sanglant aux Hauts-Vents)",
         "zoneparent_id": ""
+    },
+    {
+        "text": "Les ouvriers qui empruntent ce chemin pour travailler aux mines de Promesse sont escortés par des hommes d'armes, en raison des raids fréquents menés par les clans osags.",
+        "categorie": "cartographie",
+        "created": "20150330135135488",
+        "faction_id": "2",
+        "id": "18",
+        "map_id": "1",
+        "markerend_id": "38",
+        "markerstart_id": "37",
+        "modified": "20150717184624122",
+        "routetype_id": "1",
+        "status": "à intégrer",
+        "tags": "routes",
+        "title": "Chemin des mines de Promesse",
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "Ce chemin mène au promontoire où se trouve le sanctuaire demorthèn du \"belvédère de l'est\".",
@@ -711,11 +783,11 @@
         "text": "Cette forteresse située sur les terres de Dèas est entretenue et rénovée par les osags.",
         "categorie": "cartographie",
         "created": "20150327121723347",
-        "faction_id": "5",
+        "faction_id": "9",
         "id": "id_Citadelle de Dèas",
         "map_id": "1",
         "markertype_id": "6",
-        "modified": "20150406212425145",
+        "modified": "20150716171942292",
         "status": "à revoir",
         "tags": "marqueurs",
         "title": "Citadelle de Dèas",
@@ -818,19 +890,19 @@
         "zoneparent_id": "id_Royaume de Reizh"
     },
     {
-        "created": "20150715194956041",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150715194956041",
         "faction_id": "4",
         "id": "id_Col de l'Artz",
         "map_id": "1",
         "markerparent_id": "",
         "markertype_id": "3",
         "modified": "20150715195048750",
+        "status": "à revoir",
         "tags": "marqueurs",
         "title": "Col de l'Artz",
-        "zoneparent_id": "25",
-        "status": "à revoir"
+        "zoneparent_id": "25"
     },
     {
         "text": "Ce col, protégé par la forteresse de Smiorail, est une des des rares voies praticables de la région pour traverser la frontière entre le royaume de Taol-Kaer et celui de Gwidre.",
@@ -945,8 +1017,8 @@
     },
     {
         "text": "Crail est un bourg situé dans des vallons forestiers traversés par la rivière Seleane. Ses artisans du bois, constitués en guilde, sont reconnus pour leur savoir-faire ; ils produisent des meubles et des bibelots aux tons riches, mais aussi des armes de qualité. Aussi y a-t-il souvent des marchands de passage, qu'ils soient reizhites ou viennent de l'autre côté de la frontière.",
-        "created": "20150326120241452",
         "categorie": "cartographie",
+        "created": "20150326120241452",
         "faction_id": "10",
         "id": "34",
         "map_id": "1",
@@ -1015,17 +1087,17 @@
     },
     {
         "text": "",
-        "created": "20150330094533137",
         "categorie": "cartographie",
+        "created": "20150330094533137",
         "faction_id": "9",
         "id": "33",
         "map_id": "1",
         "markertype_id": "9",
         "modified": "20150715211129850",
+        "status": "à revoir",
         "tags": "marqueurs",
         "title": "Demeure des Mac Baellec",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "Les populations honorant les cultes et traditions ancestrales de Tri-Kazel.",
@@ -1038,17 +1110,17 @@
     },
     {
         "text": "",
-        "created": "20150330125551085",
         "categorie": "cartographie",
+        "created": "20150330125551085",
         "faction_id": "4",
         "id": "75",
         "map_id": "1",
         "markertype_id": "11",
         "modified": "20150715211125022",
+        "status": "à revoir",
         "tags": "marqueurs",
         "title": "Didean",
-        "zoneparent_id": "id_Duché de Tulg",
-        "status": "à revoir"
+        "zoneparent_id": "id_Duché de Tulg"
     },
     {
         "text": "",
@@ -1063,7 +1135,7 @@
         "status": "à revoir",
         "tags": "marqueurs",
         "title": "Diinthër",
-        "zoneparent_id": "59"
+        "zoneparent_id": "52"
     },
     {
         "text": "",
@@ -1339,7 +1411,7 @@
         "categorie": "cartographie",
         "created": "20150326124741730",
         "faction_id": "11",
-        "id": "56",
+        "id": "49",
         "map_id": "1",
         "modified": "20150711113608450",
         "status": "à placer",
@@ -1426,7 +1498,7 @@
         "status": "à placer",
         "tags": "zones",
         "title": "Fortriù",
-        "zoneparent_id": "53",
+        "zoneparent_id": "46",
         "zonetype_id": "14"
     },
     {
@@ -1585,18 +1657,18 @@
         "zonetype_id": "12"
     },
     {
-        "created": "20150330124914390",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150330124914390",
         "faction_id": "4",
         "id": "54",
         "map_id": "1",
         "markertype_id": "11",
         "modified": "20150715211118500",
+        "status": "à revoir",
         "tags": "marqueurs",
         "title": "Helefrt",
-        "zoneparent_id": "id_Duché de Tulg",
-        "status": "à revoir"
+        "zoneparent_id": "id_Duché de Tulg"
     },
     {
         "text": "En raison des courants et des récifs, cette île n'est accessible qu'au début de l'été. Les pêcheurs qui profitent alors de ses eaux poissonneuses font état de plusieurs disparitions étranges. On dénombre un grand nombre de cairns sur l'île, et mieux vaut ne pas essayer d'en déranger les pierres.",
@@ -1625,8 +1697,8 @@
     },
     {
         "text": "",
-        "created": "20150706180201382",
         "categorie": "cartographie",
+        "created": "20150706180201382",
         "faction_id": "4",
         "id": "74",
         "map_id": "1",
@@ -1704,10 +1776,10 @@
         "map_id": "1",
         "markertype_id": "1",
         "modified": "20150715211010753",
+        "status": "à revoir",
         "tags": "marqueurs",
         "title": "Kalvernach",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "La capitale du duché de Kel Loar attire de nombreux érudits, car l'on peut trouver dans ses bibliothèques des ouvrages rares. De plus, sa situation côtière a permis à la cité de fortement développer son activité portuaire. Après une violente attaque feonde il y a deux décennies, la reconstruction tout juste achevée a renforcé les liens avec les magientistes, ce qui n'empêche pas les maîtres de la ville d'avoir des vues sur les terres des voisins reizhites, si un conflit interne s'y déclenchait.",
@@ -1728,7 +1800,7 @@
         "categorie": "cartographie",
         "created": "20150326130703846",
         "faction_id": "11",
-        "id": "111",
+        "id": "110",
         "map_id": "1",
         "markertype_id": "1",
         "modified": "20150711165928362",
@@ -1807,17 +1879,17 @@
     },
     {
         "text": "Ce bourg est reconnu pour la qualité de sa laine, et l'efficacité de ses tisserands. Ceux-ci s'y sont constitués en guilde, plus puissante que le seigneur local. Jusqu'à présent, ils ont toujours refusé d'utiliser des métiers à tisser magientistes.",
-        "created": "20150331110501422",
         "categorie": "cartographie",
+        "created": "20150331110501422",
         "faction_id": "10",
         "id": "36",
         "map_id": "1",
         "markertype_id": "11",
         "modified": "20150715202556424",
+        "status": "à intégrer",
         "tags": "marqueurs",
         "title": "Leacach",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à intégrer"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "Ce village s’étend dans une petite vallée de la forêt du Dorchwald.",
@@ -2461,10 +2533,10 @@
         "map_id": "1",
         "markertype_id": "11",
         "modified": "20150715211004962",
+        "status": "à revoir",
         "tags": "marqueurs",
         "title": "Mambrun",
-        "zoneparent_id": "id_Gwidre",
-        "status": "à revoir"
+        "zoneparent_id": "id_Gwidre"
     },
     {
         "text": "Ce village ceint de hautes palissades est situé sur la rive ouest de Tir Na Loch et n'est guère habité que par des pêcheurs et des gardes. Il s'agit en effet de la seule communauté de l'archipel des Trois Sœurs où les étrangers sont tolérés, et elle n'est destinée qu'aux échanges entre ceux-ci et les îliens, sous constante surveillance.",
@@ -2880,8 +2952,8 @@
     },
     {
         "text": "Le plus haut pic de Reizh tire son nom des légendaires aigles géants qui nicheraient à son sommet. Les montagnes alentour servent de pâturages pour du bétail, élevé pour sa laine qui est ensuite transformée à Farl.",
-        "created": "20150327113006892",
         "categorie": "cartographie",
+        "created": "20150327113006892",
         "faction_id": "4",
         "id": "id_Pic de l'Aigle",
         "map_id": "1",
@@ -2897,7 +2969,7 @@
         "categorie": "cartographie",
         "created": "20150327113221947",
         "faction_id": "4",
-        "id": "112",
+        "id": "111",
         "map_id": "1",
         "markertype_id": "5",
         "modified": "20150711170045262",
@@ -2998,9 +3070,9 @@
         "zonetype_id": "18"
     },
     {
-        "created": "20150330114544363",
         "text": "À l'extrême sud-ouest de la péninsule, la pointe de Hòb ne présente aucun intérêt, excepté si l'on recherche un sentiment de solitude au bout du monde. Il est aisé de comprendre que les Tarish n'y soient pas restés après leur arrivée par la mer.",
         "categorie": "cartographie",
+        "created": "20150330114544363",
         "faction_id": "6",
         "id": "76",
         "map_id": "1",
@@ -3023,19 +3095,19 @@
         "title": "Politique"
     },
     {
-        "created": "20150715205134761",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150715205134761",
         "faction_id": "11",
         "id": "id_Pont de Brian'ch",
         "map_id": "1",
         "markerparent_id": "",
         "markertype_id": "3",
         "modified": "20150715205204378",
+        "status": "à revoir",
         "tags": "marqueurs",
         "title": "Pont de Brian'ch",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "Enjambant le fleuve Tealderoth, ce pont entre les royaumes de Taol-Kaer et Reizh est le symbole de leur alliance durant la guerre du Temple. Cependant, l'existence d'un pont ici remonterait bien plus loin, aux temps de la Fondation.",
@@ -3105,6 +3177,21 @@
         "title": "Port (village côtier, ...)"
     },
     {
+        "text": "",
+        "categorie": "cartographie",
+        "created": "20150716183630781",
+        "faction_id": "11",
+        "id": "id_Port de Farl",
+        "map_id": "1",
+        "markerparent_id": "21",
+        "markertype_id": "2",
+        "modified": "20150716183644328",
+        "status": "à revoir",
+        "tags": "marqueurs",
+        "title": "Port de Farl",
+        "zoneparent_id": "id_Royaume de Reizh"
+    },
+    {
         "text": "Promesse est un village nouveau dont la centaine d'occupants, dirigée par trois primus, est dédiée aux exploitations magientistes : l'extration du Flux végétal dans la forêt de Boischandelles, celle du Flux fossile des mines d'une vallée voisine... et la protection contre les \"insoumis\" des clans indépendantistes, qui mènent une véritable guérilla contre les magientistes.",
         "categorie": "cartographie",
         "created": "20150330095149530",
@@ -3132,7 +3219,7 @@
         "categorie": "cartographie",
         "created": "20150402181830903",
         "faction_id": "1",
-        "id": "59",
+        "id": "52",
         "map_id": "1",
         "modified": "20150711113611042",
         "status": "à placer",
@@ -3219,7 +3306,7 @@
         "id": "13",
         "itineraire": "Route de la mer",
         "map_id": "1",
-        "markerend_id": "109",
+        "markerend_id": "108",
         "markerstart_id": "22",
         "modified": "20150711113633410",
         "routetype_id": "2",
@@ -3237,7 +3324,7 @@
         "itineraire": "Route de la mer",
         "map_id": "1",
         "markerend_id": "19",
-        "markerstart_id": "109",
+        "markerstart_id": "108",
         "modified": "20150711113633665",
         "routetype_id": "2",
         "status": "à placer",
@@ -3365,9 +3452,9 @@
         "zoneparent_id": ""
     },
     {
-        "created": "20150603121102874",
         "text": "Ce chemin permet de joindre Nectan à Deh'ad. Moins utilisé que la célèbre Voie sainte, il suit la lisière entre la forêt du Dorchwald et les contreforts des Mòr Roimh.",
         "categorie": "cartographie",
+        "created": "20150603121102874",
         "faction_id": "15",
         "id": "80",
         "itineraire": "Route du Dorchwald",
@@ -3382,9 +3469,9 @@
         "zoneparent_id": ""
     },
     {
-        "created": "20150330134621191",
         "text": "Ce chemin permet de joindre Nectan à Deh'ad. Moins utilisé que la célèbre Voie sainte, il suit la lisière entre la forêt du Dorchwald et les contreforts des Mòr Roimh.",
         "categorie": "cartographie",
+        "created": "20150330134621191",
         "faction_id": "15",
         "id": "16",
         "itineraire": "Route du Dorchwald",
@@ -3399,21 +3486,21 @@
         "zoneparent_id": ""
     },
     {
-        "created": "20150715201921545",
         "text": "Ce chemin permet de joindre Nectan à Deh'ad. Moins utilisé que la célèbre Voie sainte, il suit la lisière entre la forêt du Dorchwald et les contreforts des Mòr Roimh.",
-        "title": "Route du Dorchwald (du carrefour des Pierres Brisées à Deh'ad)",
-        "tags": "routes",
-        "modified": "20150715201952595",
         "categorie": "cartographie",
-        "map_id": "1",
-        "id": "id_Route du Dorchwald (du carrefour des Pierres Brisées à Deh'ad)",
-        "routetype_id": "1",
+        "created": "20150715201921545",
         "faction_id": "15",
-        "markerstart_id": "id_Carrefour des Pierres Brisées sur la route du Dorchwald",
-        "markerend_id": "27",
-        "zoneparent_id": "",
+        "id": "id_Route du Dorchwald (du carrefour des Pierres Brisées à Deh'ad)",
         "itineraire": "Route du Dorchwald",
-        "status": "à intégrer"
+        "map_id": "1",
+        "markerend_id": "27",
+        "markerstart_id": "id_Carrefour des Pierres Brisées sur la route du Dorchwald",
+        "modified": "20150715201952595",
+        "routetype_id": "1",
+        "status": "à intégrer",
+        "tags": "routes",
+        "title": "Route du Dorchwald (du carrefour des Pierres Brisées à Deh'ad)",
+        "zoneparent_id": ""
     },
     {
         "text": "Ce chemin est le plus sûr permettant de relier Kell et Kermordhran à travers les montagnes hostiles. Tout le long de la piste, des clascadh, d'anciens abris en pierre en forme de dôme, permettent aux voyageurs de s'abriter du vent et du froid.",
@@ -3423,8 +3510,8 @@
         "id": "81",
         "itineraire": "Route Grise",
         "map_id": "1",
-        "markerend_id": "110",
-        "markerstart_id": "111",
+        "markerend_id": "109",
+        "markerstart_id": "110",
         "modified": "20150714135808531",
         "routetype_id": "1",
         "status": "à placer",
@@ -3441,7 +3528,7 @@
         "itineraire": "Route Grise",
         "map_id": "1",
         "markerend_id": "22",
-        "markerstart_id": "110",
+        "markerstart_id": "109",
         "modified": "20150711113637493",
         "routetype_id": "1",
         "status": "à placer",
@@ -3462,17 +3549,17 @@
     },
     {
         "text": "Le château de Laräch était la demeure des comtes des Marches, les Mac Farquam, vieille lignée garante de la frontière avec Gwidre. En effet, le château domine un pont sur le fleuve Kreizdhour. Toutefois, leur trahison pendant la guerre du Temple signa leur déchéance, complétée par l'incendie du château. Depuis lors, ses ruines sont considérées comme maudites.",
-        "created": "20150330124607585",
         "categorie": "cartographie",
+        "created": "20150330124607585",
         "faction_id": "11",
         "id": "43",
         "map_id": "1",
         "markertype_id": "9",
         "modified": "20150715210959071",
+        "status": "à revoir",
         "tags": "marqueurs",
         "title": "Ruines du château des Mac Farquam",
-        "zoneparent_id": "id_Duché de Tulg",
-        "status": "à revoir"
+        "zoneparent_id": "id_Duché de Tulg"
     },
     {
         "text": "L'un des quatre villages de l'île du Calvaire, qui s'est établi autour du monastère éponyme.",
@@ -3552,7 +3639,7 @@
         "faction_id": "15",
         "id": "83",
         "map_id": "1",
-        "markerend_id": "108",
+        "markerend_id": "107",
         "markerstart_id": "86",
         "modified": "20150711113637887",
         "routetype_id": "3",
@@ -3573,9 +3660,9 @@
         "title": "Sentier de loup"
     },
     {
-        "created": "20150603125205372",
         "text": "Ni demorthèn ni fidèles du Temple n'empruntent plus cet ancien chemin depuis la destruction du liagcal et l'abandon de l'église qui l'avait remplacé. Des stermerks, les signes utilisés par les varigaux, préviennent ces derniers des dangers du lieu.",
         "categorie": "cartographie",
+        "created": "20150603125205372",
         "faction_id": "15",
         "id": "84",
         "itineraire": "",
@@ -3598,7 +3685,7 @@
         "itineraire": "",
         "map_id": "1",
         "markerend_id": "24",
-        "markerstart_id": "109",
+        "markerstart_id": "108",
         "modified": "20150711113639170",
         "routetype_id": "3",
         "status": "à placer",
@@ -3698,9 +3785,9 @@
         "title": "Tarish"
     },
     {
-        "created": "20150521194539033",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150521194539033",
         "faction_id": "4",
         "id": "id_Telh",
         "map_id": "1",
@@ -3769,9 +3856,9 @@
         "title": "Territoire"
     },
     {
-        "created": "20150402110117794",
         "text": "Le cidre de Tilliarch est apprécié dans toute la péninsule. Le bourg accueille de nombreux négociants et voyageurs de passage.",
         "categorie": "cartographie",
+        "created": "20150402110117794",
         "faction_id": "11",
         "id": "id_Tilliarch",
         "map_id": "1",
@@ -3793,7 +3880,7 @@
         "status": "à placer",
         "tags": "zones",
         "title": "Tir na Loch",
-        "zoneparent_id": "53",
+        "zoneparent_id": "46",
         "zonetype_id": "14"
     },
     {
@@ -4041,9 +4128,9 @@
         "zoneparent_id": ""
     },
     {
-        "created": "20150603121135115",
         "text": "La Voie sainte relie la capitale gwidrite, Ard-Amrach, à la ville sainte de Fionnfuar.",
         "categorie": "cartographie",
+        "created": "20150603121135115",
         "faction_id": "1",
         "id": "79",
         "itineraire": "Voie sainte",
@@ -4058,9 +4145,9 @@
         "zoneparent_id": ""
     },
     {
-        "created": "20150330135625919",
         "text": "La Voie sainte relie la capitale gwidrite, Ard-Amrach, à la ville sainte de Fionnfuar.",
         "categorie": "cartographie",
+        "created": "20150330135625919",
         "faction_id": "1",
         "id": "24",
         "itineraire": "Voie sainte",
