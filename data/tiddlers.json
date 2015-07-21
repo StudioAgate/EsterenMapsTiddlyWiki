@@ -211,20 +211,20 @@
     },
     {
         "text": "",
-        "created": "20150720203141261",
-        "title": "Bac de l'embouchure du Kreizhdour",
-        "tags": "routes",
         "categorie": "cartographie",
-        "map_id": "1",
-        "id": "id_Bac de l'embouchure du Kreizhdour",
-        "routetype_id": "5",
+        "created": "20150720203141261",
         "faction_id": "11",
-        "markerstart_id": "114",
-        "markerend_id": "113",
-        "zoneparent_id": "",
+        "id": "id_Bac de l'embouchure du Kreizhdour",
         "itineraire": "Route de l'Océan",
+        "map_id": "1",
+        "markerend_id": "113",
+        "markerstart_id": "114",
         "modified": "20150720203250847",
-        "status": "à revoir"
+        "routetype_id": "5",
+        "status": "à revoir",
+        "tags": "routes",
+        "title": "Bac de l'embouchure du Kreizhdour",
+        "zoneparent_id": ""
     },
     {
         "text": "Le bagne du Clos-des-Cendres est installé sur l'une des îles orientales de l'Archipel des Cendres. Les condamnés y travaillent dans les conditions difficiles qu'impliquent un environnement volcanique.",
@@ -326,9 +326,9 @@
         "zoneparent_id": "id_Duché d'Osta-Baille"
     },
     {
-        "created": "20150305154645057",
         "text": "Entre les multiples conquêtes et reconquêtes lors de la guerre du Temple et les fréquentes attaques de feondas, les actuels habitants de ce village frontalier stratégique n'ont plus aucun lien avec ceux d'il y a 50 ans.",
         "categorie": "cartographie",
+        "created": "20150305154645057",
         "faction_id": "11",
         "id": "44",
         "map_id": "1",
@@ -340,15 +340,15 @@
         "zoneparent_id": "id_Duché de Dùlan"
     },
     {
+        "created": "20150314152635118",
         "text": "Cette grande île, dont l'accès est rendu difficile par des courants puissants, est placée sous le contrôle de la couronne de Gwidre. Quatre monastères y sont installés, qui ont donné naissance à des villages. On y trouve aussi une forteresse-prison : le Roc. De surcroît, on raconte que ses bois seraient hantés.",
         "categorie": "cartographie",
-        "created": "20150314152635118",
         "faction_id": "1",
         "id": "1",
         "map_id": "1",
-        "modified": "20150720105629062",
+        "modified": "20150721164331665",
         "status": "done",
-        "tags": "zones [[_placement à valider]]",
+        "tags": "zones",
         "title": "Calvaire",
         "zoneparent_id": "40",
         "zonetype_id": "14"
@@ -510,6 +510,21 @@
         "tags": "marqueurs",
         "title": "Carrefour du cirque d'Argoneskan sur la Route de la mer",
         "zoneparent_id": "id_Royaume de Reizh"
+    },
+    {
+        "text": "",
+        "created": "20150721164438665",
+        "title": "Carrefour du col d'Oerdh sur la route des Hilderins",
+        "tags": "marqueurs",
+        "categorie": "cartographie",
+        "map_id": "1",
+        "id": "id_Carrefour du col d'Oerdh sur la route des Hilderins",
+        "markertype_id": "10",
+        "faction_id": "",
+        "zoneparent_id": "",
+        "markerparent_id": "",
+        "modified": "20150721164744065",
+        "status": "à intégrer"
     },
     {
         "text": "",
@@ -678,78 +693,78 @@
         "markerstart_id": "18",
         "modified": "20150720200826290",
         "routetype_id": "1",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Chemin d'Afalinn",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
+        "text": "",
+        "categorie": "cartographie",
         "created": "20150720201743957",
-        "text": "",
-        "title": "Chemin de Didean à Louarn",
-        "tags": "routes",
-        "categorie": "cartographie",
-        "map_id": "1",
-        "id": "id_Chemin de Didean à Louarn",
-        "routetype_id": "1",
         "faction_id": "",
-        "markerstart_id": "75",
-        "markerend_id": "133",
-        "zoneparent_id": "",
+        "id": "id_Chemin de Didean à Louarn",
         "itineraire": "Route des Hilderins",
+        "map_id": "1",
+        "markerend_id": "133",
+        "markerstart_id": "75",
         "modified": "20150720202031296",
-        "status": "à revoir"
+        "routetype_id": "1",
+        "status": "à revoir",
+        "tags": "routes",
+        "title": "Chemin de Didean à Louarn",
+        "zoneparent_id": ""
     },
     {
-        "created": "20150331122722234",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150331122722234",
         "faction_id": "",
         "id": "id_Chemin de la Citadelle de Dèas à Didean",
+        "itineraire": "Route des Hilderins",
         "map_id": "1",
         "markerend_id": "75",
         "markerstart_id": "123",
         "modified": "20150720202027310",
         "routetype_id": "1",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de la Citadelle de Dèas à Didean",
-        "zoneparent_id": "",
-        "itineraire": "Route des Hilderins",
-        "status": "à revoir"
+        "zoneparent_id": ""
     },
     {
-        "created": "20150331121829633",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150331121829633",
         "faction_id": "",
         "id": "id_Chemin de Llewellen à Tulg Naomh",
+        "itineraire": "Route des Hilderins",
         "map_id": "1",
         "markerend_id": "47",
         "markerstart_id": "70",
         "modified": "20150720201537146",
         "routetype_id": "1",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Llewellen à Tulg Naomh",
-        "zoneparent_id": "",
-        "itineraire": "Route des Hilderins",
-        "status": "à revoir"
+        "zoneparent_id": ""
     },
     {
-        "created": "20150331122120529",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150331122120529",
         "faction_id": "",
         "id": "id_Chemin de Louarn à Llewellen",
+        "itineraire": "Route des Hilderins",
         "map_id": "1",
         "markerend_id": "70",
         "markerstart_id": "133",
         "modified": "20150720201543397",
         "routetype_id": "1",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Louarn à Llewellen",
-        "zoneparent_id": "",
-        "itineraire": "Route des Hilderins",
-        "status": "à revoir"
+        "zoneparent_id": ""
     },
     {
         "text": "Ce chemin tortueux et abrupt permet de rejoindre la communauté autarcique de Haut-Mùdan. Il est surveillé de près et ses alentours sont piégés.",
@@ -992,9 +1007,9 @@
         "zoneparent_id": "id_Royaume de Reizh"
     },
     {
-        "created": "20150715194956041",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150715194956041",
         "faction_id": "4",
         "id": "125",
         "map_id": "1",
@@ -1036,9 +1051,9 @@
         "zoneparent_id": "25"
     },
     {
-        "created": "20150608110815990",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150608110815990",
         "faction_id": "4",
         "id": "128",
         "map_id": "1",
@@ -1442,9 +1457,9 @@
         "zonetype_id": "11"
     },
     {
-        "created": "20150330111658959",
         "text": "Il parait qu'un loup géant couvert de barbelures habite ces lieux. C'est pour cette raison qu'on le surnomme aussi la \"brèche du loup\".",
         "categorie": "cartographie",
+        "created": "20150330111658959",
         "faction_id": "4",
         "id": "130",
         "map_id": "1",
@@ -1894,10 +1909,10 @@
         "markerstart_id": "13",
         "modified": "20150720200821353",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Kalvernach est",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "La capitale du duché de Kel Loar attire de nombreux érudits, car l'on peut trouver dans ses bibliothèques des ouvrages rares. De plus, sa situation côtière a permis à la cité de fortement développer son activité portuaire. Après une violente attaque feonde il y a deux décennies, la reconstruction tout juste achevée a renforcé les liens avec les magientistes, ce qui n'empêche pas les maîtres de la ville d'avoir des vues sur les terres des voisins reizhites, si un conflit interne s'y déclenchait.",
@@ -2052,9 +2067,9 @@
         "zoneparent_id": "id_Domaine des Hauts-Vents"
     },
     {
-        "created": "20150428204739148",
         "text": "Bien que ce village pourrait être une étape sur les routes maritimes commerciales qui longent prudemment les côtes, les navigateurs évitent de relâcher à Aimliù dont les habitants ont sinistre réputation.",
         "categorie": "cartographie",
+        "created": "20150428204739148",
         "faction_id": "4",
         "id": "33",
         "map_id": "1",
@@ -2084,9 +2099,9 @@
         "zoneparent_id": "40"
     },
     {
-        "created": "20150428211820353",
         "text": "Le Clos-des-Cendres étant une ville dont l'existence sort petit à petit du secret, elle figure sur peu de cartes et toutes les voies maritimes n'y font pas escale. Il est assez fréquent qu'une banquise se forme en hiver.",
         "categorie": "cartographie",
+        "created": "20150428211820353",
         "faction_id": "4",
         "id": "35",
         "map_id": "1",
@@ -2148,9 +2163,9 @@
         "zoneparent_id": "36"
     },
     {
-        "created": "20150428211007359",
         "text": "Le Clos-des-Cendres étant une ville dont l'existence sort petit à petit du secret, elle figure sur peu de cartes et toutes les voies maritimes n'y font pas escale. Il est assez fréquent qu'une banquise se forme en hiver.",
         "categorie": "cartographie",
+        "created": "20150428211007359",
         "faction_id": "4",
         "id": "39",
         "map_id": "1",
@@ -2164,9 +2179,9 @@
         "zoneparent_id": "40"
     },
     {
-        "created": "20150720175451224",
         "text": "Les capitaines qui assurent cette liaison commerciale prennent garde à longer les côtes pour ne pas braver les flots déchaînés de l'Océan Furieux. Le Clos-des-Cendres étant une ville dont l'existence sort petit à petit du secret, elle figure sur peu de cartes et toutes les voies maritimes n'y font pas escale. Il est assez fréquent qu'une banquise se forme en hiver.",
         "categorie": "cartographie",
+        "created": "20150720175451224",
         "faction_id": "4",
         "id": "40",
         "map_id": "1",
@@ -2180,9 +2195,9 @@
         "zoneparent_id": "40"
     },
     {
-        "created": "20150428205101523",
         "text": "Bien que ce village pourrait être une étape sur les routes maritimes commerciales qui longent prudemment les côtes, les navigateurs évitent de relâcher à Aimliù dont les habitants ont sinistre réputation.",
         "categorie": "cartographie",
+        "created": "20150428205101523",
         "faction_id": "4",
         "id": "41",
         "map_id": "1",
@@ -2196,9 +2211,9 @@
         "zoneparent_id": "40"
     },
     {
-        "created": "20150428203411398",
         "text": "Les capitaines qui assurent cette liaison commerciale prennent garde à longer les côtes pour ne pas braver les flots déchaînés de l'Océan Furieux, et évitent de relâcher à Aimliù dont les habitants ont sinistre réputation.",
         "categorie": "cartographie",
+        "created": "20150428203411398",
         "faction_id": "4",
         "id": "42",
         "map_id": "1",
@@ -2566,9 +2581,9 @@
         "zoneparent_id": "36"
     },
     {
-        "created": "20150416124030385",
         "text": "La traversée de Farl vers Mornegivre, sur l'océan Furieux où les tempêtes glaciales sont fréquentes, est par nature incertaine, et rares sont les capitaines qui accepteront d'y risquer leur caraque.",
         "categorie": "cartographie",
+        "created": "20150416124030385",
         "faction_id": "4",
         "id": "64",
         "map_id": "1",
@@ -2808,9 +2823,9 @@
         "title": "Mixte"
     },
     {
-        "created": "20150424082524682",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150424082524682",
         "faction_id": "1",
         "id": "134",
         "map_id": "1",
@@ -2974,10 +2989,10 @@
         "markerstart_id": "11",
         "modified": "20150720200817276",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Nord du Pont de l'Alliance",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "Ce bourg, dont le nom signifie le \"nouveau port\", est le pendant d'Ear Caladh. La complexité de sa récente construction, qui a nécessité la création d'une anse artificielle, explique que les taxes portuaires y soient si élevées. Ses habitants sont majoritairement des employés portuaires.",
@@ -3031,9 +3046,9 @@
         "zoneparent_id": "id_Duché d'Osta-Baille"
     },
     {
-        "created": "20150331120747217",
         "text": "Ce bourg accueille l'une des principales forteresses des chevaliers hilderins.",
         "categorie": "cartographie",
+        "created": "20150331120747217",
         "faction_id": "14",
         "id": "135",
         "map_id": "1",
@@ -3230,9 +3245,9 @@
         "title": "Politique"
     },
     {
-        "created": "20150715205134761",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150715205134761",
         "faction_id": "11",
         "id": "137",
         "map_id": "1",
@@ -3312,9 +3327,9 @@
         "title": "Port (village côtier, ...)"
     },
     {
-        "created": "20150716183630781",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150716183630781",
         "faction_id": "11",
         "id": "139",
         "map_id": "1",
@@ -3434,9 +3449,9 @@
         "title": "Route"
     },
     {
-        "created": "20150330134443768",
         "text": "Cette route qui relie Fionnfuar et Farl, dont les habitants l'appellent aussi \"Route de l'ouest\" ou \"Route marine\", est moins développée du côté gwidrite.",
         "categorie": "cartographie",
+        "created": "20150330134443768",
         "faction_id": "1",
         "id": "14",
         "itineraire": "Route des Cendres",
@@ -3445,10 +3460,10 @@
         "markerstart_id": "20",
         "modified": "20150720202750426",
         "routetype_id": "1",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route de Farl",
-        "zoneparent_id": "",
-        "status": "à revoir"
+        "zoneparent_id": ""
     },
     {
         "text": "",
@@ -3461,112 +3476,112 @@
         "markerstart_id": "16",
         "modified": "20150720200808607",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route de Gwidre",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
-        "created": "20150331120726300",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150331120726300",
         "faction_id": "",
         "id": "id_Route de Aimliù à Diinthër",
+        "itineraire": "Route de l'Océan",
         "map_id": "1",
         "markerend_id": "129",
         "markerstart_id": "10",
         "modified": "20150720203917606",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Océan (d'Aimliù à Diinthër)",
-        "zoneparent_id": "",
-        "status": "à revoir",
-        "itineraire": "Route de l'Océan"
+        "zoneparent_id": ""
     },
     {
         "text": "",
+        "categorie": "cartographie",
         "created": "20150720203924438",
-        "title": "Route de l'Océan (de Diinthër à Ard-Amrach)",
-        "tags": "routes",
-        "categorie": "cartographie",
-        "map_id": "1",
-        "id": "id_Route de l'Océan (de Diinthër à Ard-Amrach)",
-        "routetype_id": "2",
         "faction_id": "",
-        "markerstart_id": "129",
-        "markerend_id": "9",
-        "zoneparent_id": "",
+        "id": "id_Route de l'Océan (de Diinthër à Ard-Amrach)",
         "itineraire": "Route de l'Océan",
+        "map_id": "1",
+        "markerend_id": "9",
+        "markerstart_id": "129",
         "modified": "20150720203929082",
-        "status": "à revoir"
+        "routetype_id": "2",
+        "status": "à revoir",
+        "tags": "routes",
+        "title": "Route de l'Océan (de Diinthër à Ard-Amrach)",
+        "zoneparent_id": ""
     },
     {
-        "created": "20150331121003351",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150331121003351",
         "faction_id": "",
         "id": "id_Route de Gorm Caladh à la Cathédrale",
+        "itineraire": "Route de l'Océan",
         "map_id": "1",
         "markerend_id": "46",
         "markerstart_id": "45",
         "modified": "20150720203636788",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Océan (de Gorm Caladh à Saint Albérich)",
-        "zoneparent_id": "",
-        "status": "à revoir",
-        "itineraire": "Route de l'Océan"
+        "zoneparent_id": ""
     },
     {
-        "created": "20150331120829362",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150331120829362",
         "faction_id": "",
         "id": "id_Route de la Cathédrale à Aimliù",
+        "itineraire": "Route de l'Océan",
         "map_id": "1",
         "markerend_id": "10",
         "markerstart_id": "46",
         "modified": "20150720203733541",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Océan (de Saint Albérich à Aimliù)",
-        "zoneparent_id": "",
-        "status": "à revoir",
-        "itineraire": "Route de l'Océan"
+        "zoneparent_id": ""
     },
     {
-        "created": "20150331121541927",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150331121541927",
         "faction_id": "",
         "id": "id_Route de Tulg Naomh au bac",
+        "itineraire": "Route de l'Océan",
         "map_id": "1",
         "markerend_id": "114",
         "markerstart_id": "47",
         "modified": "20150720203424501",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Océan (de Tulg Naomh au bac)",
-        "zoneparent_id": "",
-        "itineraire": "Route de l'Océan",
-        "status": "à revoir"
+        "zoneparent_id": ""
     },
     {
-        "created": "20150331121412194",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150331121412194",
         "faction_id": "",
         "id": "id_Route du bac à Gorm Caladh",
+        "itineraire": "Route de l'Océan",
         "map_id": "1",
         "markerend_id": "45",
         "markerstart_id": "113",
         "modified": "20150720203538517",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Océan (du bac à Gorm Caladh)",
-        "zoneparent_id": "",
-        "status": "à revoir",
-        "itineraire": "Route de l'Océan"
+        "zoneparent_id": ""
     },
     {
         "text": "",
@@ -3579,15 +3594,15 @@
         "markerstart_id": "13",
         "modified": "20150720200802977",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Ouest",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "Les seigneurs du Croissant d'Émeraude imposent de nombreuses taxes le long de cette route, et ils n'hésitent pas à infliger des vexations aux voyageurs liées à la couronne reizhite, aussi bien marchands que magientistes.",
-        "created": "20150330140341240",
         "categorie": "cartographie",
+        "created": "20150330140341240",
         "faction_id": "9",
         "id": "27",
         "map_id": "1",
@@ -3595,15 +3610,15 @@
         "markerstart_id": "14",
         "modified": "20150720200758215",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route de la côte",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
-        "created": "20150318133608398",
         "text": "Cette route relie Kermordhran au Clos-des-Cendres. Des angardes bien entretenues la jalonnent, et des patrouilles la parcourent régulièrement.",
         "categorie": "cartographie",
+        "created": "20150318133608398",
         "faction_id": "2",
         "id": "13",
         "itineraire": "Route de la mer",
@@ -3618,9 +3633,9 @@
         "zoneparent_id": ""
     },
     {
-        "created": "20150604083457642",
         "text": "Cette route relie Kermordhran au Clos-des-Cendres. Des angardes bien entretenues la jalonnent, et des patrouilles la parcourent régulièrement.",
         "categorie": "cartographie",
+        "created": "20150604083457642",
         "faction_id": "2",
         "id": "78",
         "itineraire": "Route de la mer",
@@ -3669,9 +3684,9 @@
         "zoneparent_id": ""
     },
     {
-        "created": "20150318132437138",
         "text": "Cette route relie Fionnfuar et Farl, dont les habitants l'appellent aussi \"Route de l'ouest\" ou \"Route marine\". Du côté reizhite, des angardes bien entretenues la jalonnent, et des patrouilles la parcourent régulièrement.",
         "categorie": "cartographie",
+        "created": "20150318132437138",
         "faction_id": "2",
         "id": "10",
         "itineraire": "Route des Cendres",
@@ -3720,38 +3735,38 @@
         "zoneparent_id": ""
     },
     {
-        "created": "20150331123756853",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150331123756853",
         "faction_id": "14",
         "id": "id_Chemin de Tilliarch à Ostreach",
+        "itineraire": "Route des Hilderins",
         "map_id": "1",
         "markerend_id": "141",
         "markerstart_id": "135",
         "modified": "20150720202524405",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route des Hilderins (d'Ostreach à Tilliarch)",
-        "zoneparent_id": "",
-        "itineraire": "Route des Hilderins",
-        "status": "à revoir"
+        "zoneparent_id": ""
     },
     {
         "text": "",
-        "created": "20150318164711547",
         "categorie": "cartographie",
+        "created": "20150318164711547",
         "faction_id": "14",
         "id": "id_Route d'Ostreach à Merieren",
+        "itineraire": "Route des Hilderins",
         "map_id": "1",
         "markerend_id": "135",
         "markerstart_id": "79",
         "modified": "20150720202722830",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route des Hilderins (de Merieren à Ostreach)",
-        "zoneparent_id": "",
-        "itineraire": "Route des Hilderins",
-        "status": "à revoir"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route est très fréquentée par les chevaliers hilderins, notamment entre Osta-Baille et Ard-Monach. Des brigands sévissent parfois autour de cette dernière.",
@@ -3771,21 +3786,21 @@
         "zoneparent_id": ""
     },
     {
-        "created": "20150331123715979",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150331123715979",
         "faction_id": "14",
         "id": "id_Chemin de Tilliarch à la Citadelle de Dèas",
+        "itineraire": "Route des Hilderins",
         "map_id": "1",
         "markerend_id": "123",
         "markerstart_id": "141",
         "modified": "20150720202341320",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route des Hilderins (de Tilliarch à la Citadelle de Dèas)",
-        "zoneparent_id": "",
-        "status": "à revoir",
-        "itineraire": "Route des Hilderins"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route est très fréquentée par les chevaliers hilderins, notamment entre Osta-Baille et Ard-Monach. Au-delà, vers Caiginn, la route n'est pas toujours pavée.",
@@ -3883,26 +3898,26 @@
         "markerstart_id": "21",
         "modified": "20150720200753440",
         "routetype_id": "1",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route du Grand Est",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "",
-        "title": "Route du port de Farl",
-        "tags": "routes",
-        "modified": "20150720200955657",
         "categorie": "cartographie",
-        "map_id": "1",
-        "id": "id_Route du port de Farl",
-        "routetype_id": "2",
         "faction_id": "11",
-        "markerstart_id": "21",
-        "markerend_id": "139",
-        "zoneparent_id": "",
+        "id": "id_Route du port de Farl",
         "itineraire": "",
-        "status": "à revoir"
+        "map_id": "1",
+        "markerend_id": "139",
+        "markerstart_id": "21",
+        "modified": "20150720200955657",
+        "routetype_id": "2",
+        "status": "à revoir",
+        "tags": "routes",
+        "title": "Route du port de Farl",
+        "zoneparent_id": ""
     },
     {
         "text": "Ce chemin est le plus sûr permettant de relier Kell et Kermordhran à travers les montagnes hostiles. Tout le long de la piste, des clascadh, d'anciens abris en pierre en forme de dôme, permettent aux voyageurs de s'abriter du vent et du froid.",
@@ -3940,8 +3955,8 @@
     },
     {
         "text": "",
-        "created": "20150330133957606",
         "categorie": "cartographie",
+        "created": "20150330133957606",
         "faction_id": "11",
         "id": "11",
         "itineraire": "Route royale",
@@ -3950,10 +3965,10 @@
         "markerstart_id": "13",
         "modified": "20150720200747475",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route royale",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "",
@@ -3967,10 +3982,10 @@
         "markerstart_id": "33",
         "modified": "20150720200742589",
         "routetype_id": "1",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Route royale vers Afalinn",
-        "zoneparent_id": "id_Royaume de Reizh",
-        "status": "à revoir"
+        "zoneparent_id": "id_Royaume de Reizh"
     },
     {
         "text": "Les deux ponts de Kember, nœuds de la stratégie royale pour le contrôle des infrastructures de transport, se rejoignent sur une vaste place de marché, encore en terre battue pour le moment.",
@@ -3983,10 +3998,10 @@
         "markerstart_id": "16",
         "modified": "20150720200737446",
         "routetype_id": "2",
+        "status": "à revoir",
         "tags": "routes",
         "title": "Routes de Kember",
-        "zoneparent_id": "2",
-        "status": "à revoir"
+        "zoneparent_id": "2"
     },
     {
         "text": "",
@@ -4237,9 +4252,9 @@
         "title": "Tarish"
     },
     {
-        "created": "20150521194539033",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150521194539033",
         "faction_id": "4",
         "id": "140",
         "map_id": "1",
@@ -4309,18 +4324,18 @@
     },
     {
         "text": "",
-        "created": "20150720191835301",
-        "title": "Thòl",
-        "tags": "marqueurs",
-        "modified": "20150720191838783",
         "categorie": "cartographie",
-        "map_id": "1",
-        "id": "id_Thòl",
-        "markertype_id": "11",
+        "created": "20150720191835301",
         "faction_id": "9",
-        "zoneparent_id": "id_Val de Thoir",
+        "id": "id_Thòl",
+        "map_id": "1",
         "markerparent_id": "",
-        "status": "à revoir"
+        "markertype_id": "11",
+        "modified": "20150721164722270",
+        "status": "à revoir",
+        "tags": "marqueurs",
+        "title": "Thòl",
+        "zoneparent_id": "id_Val de Thoir"
     },
     {
         "text": "Le cidre de Tilliarch est apprécié dans toute la péninsule. Le bourg accueille de nombreux négociants et voyageurs de passage.",
