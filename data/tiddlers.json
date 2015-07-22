@@ -3392,7 +3392,7 @@
         "created": "20150402104243959",
         "categorie": "cartographie",
         "faction_id": "4",
-        "id": "138s",
+        "id": "138",
         "map_id": "1",
         "markertype_id": "9",
         "modified": "20150721190413089",
@@ -4775,3 +4775,4 @@
         "zoneparent_id": ""
     }
 ]
+
