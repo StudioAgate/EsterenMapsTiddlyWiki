@@ -428,6 +428,21 @@
         "zoneparent_id": "21"
     },
     {
+        "created": "20150825080107733",
+        "text": "",
+        "title": "Carrefour d'Eaux-Salées",
+        "tags": "marqueurs",
+        "modified": "20150825080307334",
+        "categorie": "cartographie",
+        "map_id": "1",
+        "id": "id_Carrefour d'Eaux-Salées",
+        "markertype_id": "10",
+        "faction_id": "",
+        "zoneparent_id": "",
+        "markerparent_id": "",
+        "status": "à revoir"
+    },
+    {
         "text": "",
         "categorie": "cartographie",
         "faction_id": "",
@@ -775,6 +790,36 @@
         "tags": "marqueurs",
         "title": "Château des Mac Emmanon",
         "zoneparent_id": "3"
+    },
+    {
+        "created": "20150825075343968",
+        "text": "",
+        "title": "Château des Mac Readan",
+        "tags": "marqueurs",
+        "categorie": "cartographie",
+        "map_id": "1",
+        "id": "id_Château des Mac Readan",
+        "markertype_id": "6",
+        "faction_id": "9",
+        "zoneparent_id": "22",
+        "markerparent_id": "",
+        "modified": "20150825081541072",
+        "status": "à revoir"
+    },
+    {
+        "text": "",
+        "created": "20150825081231962",
+        "title": "Château des Mac Tremen",
+        "tags": "marqueurs",
+        "categorie": "cartographie",
+        "map_id": "1",
+        "id": "id_Château des Mac Tremen",
+        "markertype_id": "6",
+        "faction_id": "9",
+        "zoneparent_id": "22",
+        "markerparent_id": "70",
+        "modified": "20150825082208965",
+        "status": "à revoir"
     },
     {
         "text": "Ce château, accroché au flanc du pic des Corbeaux, gardait à l'origine des mines d'argent, épuisées depuis des siècles. Longtemps abandonné, il n'a été restauré qu'au siècle dernier par des Continentaux, les Nevermore, qui ont repris l'ancien blason au corbeau perché. Cette étrange famille tient à rester à l'écart du monde, même si des projets d'infrastructure routière, à défaut des tensions du royaume, risquent de les forcer à s'y impliquer.",
@@ -2813,6 +2858,21 @@
         "tags": "marqueurs",
         "title": "Les Hauts-Vents",
         "zoneparent_id": "id_Domaine des Hauts-Vents"
+    },
+    {
+        "created": "20150825080352546",
+        "text": "",
+        "title": "Les Salicornes",
+        "tags": "marqueurs",
+        "categorie": "cartographie",
+        "map_id": "1",
+        "id": "id_Les Salicornes",
+        "markertype_id": "8",
+        "faction_id": "15",
+        "zoneparent_id": "22",
+        "markerparent_id": "",
+        "modified": "20150825081601028",
+        "status": "à revoir"
     },
     {
         "text": "Bien que ce village pourrait être une étape sur les routes maritimes commerciales qui longent prudemment les côtes, les navigateurs évitent de relâcher à Aimliù dont les habitants ont sinistre réputation.",
