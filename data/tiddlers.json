@@ -1588,7 +1588,7 @@
         "markerparent_id": "",
         "markerstart_id": "9",
         "modified": "20150823090037614",
-        "routetype_id": "",
+        "routetype_id": "1",
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers les carrières d'Arden",
@@ -5768,3 +5768,4 @@
         "zoneparent_id": ""
     }
 ]
+
