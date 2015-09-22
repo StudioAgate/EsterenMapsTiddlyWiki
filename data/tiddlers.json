@@ -1167,7 +1167,7 @@
         "text": "Le royaume de Gwidre se situe au nord ouest de la péninsule de Tri-Kazel, séparé de Taol-Kaer par le fleuve Kreizhdour. Le roi actuel, Dalenverch IV, gouverne depuis la capitale Ard-Amrach un peuple d'environ six cent mille habitants. Il est aidé dans sa tâche par le Hiérophante Anthénor, chef suprême du Temple. Cette religion continentale du Dieu Unique est en effet devenue la foi officielle du royaume, et les demorthèn et les anciennes traditions y sont pourchassés.",
         "categorie": "cartographie",
         "faction_id": "9",
-        "id": "id_Gwidre",
+        "id": "56",
         "map_id": "1",
         "modified": "20150921195154138",
         "status": "à intégrer",
@@ -1181,7 +1181,7 @@
         "text": "Le royaume de Reizh se situe à l'est de la péninsule de Tri-Kazel, séparé de Taol-Kaer par le fleuve Tealderoth et du Continent par les immenses Monts Asgeamar. Bronchaerd, le roi actuel, gouverne depuis la capitale Baldh-Ruoch un peuple d'environ cinq cent mille habitants. Le royaume a accueilli favorablement les théories magientistes et la modernité qu'elle apportent, mais sa situation politique est délicate : si la principauté de Farl, au nord, est loyale au trône, ce n'est pas le cas des seigneurs féodaux du Croissant d’Émeraude, soutenus par les demorthèn.",
         "categorie": "cartographie",
         "faction_id": "9",
-        "id": "id_Royaume de Reizh",
+        "id": "57",
         "map_id": "1",
         "modified": "20150921193822091",
         "status": "à intégrer",
@@ -7141,3 +7141,4 @@
         "zoneparent_id": ""
     }
 ]
+
