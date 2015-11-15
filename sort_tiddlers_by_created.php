@@ -1,7 +1,9 @@
 <?php
 
+$tiddlersFile = __DIR__.'/data/tiddlers.json';
+
 // Get datas in an array
-$data = json_decode(file_get_contents('data/tiddlers.json'), true);
+$data = json_decode(file_get_contents($tiddlersFile), true);
 
 // Sort ascending by created, if same, by id, and if same, by name (should be enough).
 usort($data, function($a, $b) {
@@ -23,5 +25,5 @@ $data = json_encode($data, JSON_UNESCAPED_SLASHES | JSON_PRETTY_PRINT | JSON_UNE
 // Fix unicode characters that were escaped.
 $data = str_replace('\u0026', '&', $data);
 
-file_put_contents('data/tiddlers.json', $data);
+file_put_contents($tiddlersFile, $data);
 
