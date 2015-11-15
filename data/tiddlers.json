@@ -1001,12 +1001,40 @@
         "faction_id": "3",
         "id": "46",
         "map_id": "1",
-        "modified": "20150910202416480",
+        "modified": "20151005195428955",
         "status": "done",
         "tags": "zones",
         "title": "Archipel des Tri-Sweszörs",
-        "zoneparent_id": "57",
+        "zoneparent_id": "50",
         "zonetype_id": "14"
+    },
+    {
+        "created": "20150326114406407",
+        "text": "Cette formation rocheuse a la particularité d'être presque parfaitement circulaire. Ceux qui s'y sont rendus n'y ont rien vu sortant de l'ordinaire, contrairement à ce que clamait son découvreur Pelfreinth Argoneskan.",
+        "categorie": "cartographie",
+        "faction_id": "4",
+        "id": "47",
+        "map_id": "1",
+        "modified": "20151115192611294",
+        "status": "done",
+        "tags": "zones",
+        "title": "Cirque d'Argoneskan",
+        "zoneparent_id": "39",
+        "zonetype_id": "10"
+    },
+    {
+        "created": "20150330111310658",
+        "text": "Ces gouffres, faisant aussi office de passage à travers la chaîne des Mòr Roimh dans les Terre de Dèas, sont surnommé \"Sianail\" par les Osags. Les hurlements du vent qui s'y engouffre ou de la redoutable faune locale n'ont définitivement rien de rassurant.",
+        "categorie": "cartographie",
+        "faction_id": "4",
+        "id": "48",
+        "map_id": "1",
+        "modified": "20151115192559758",
+        "status": "done",
+        "tags": "zones",
+        "title": "Failles Hurlantes",
+        "zoneparent_id": "39",
+        "zonetype_id": "11"
     },
     {
         "text": "Cette forêt, principale ressource en bois et en gibier du Reizh, est convoité par les magientistes qui souhaitent y installer des usines d'extraction. Une légende raconte qu'un puissant féond-arbre nommé Mórcrann y aurait été vaincu.",
@@ -1037,6 +1065,34 @@
         "zonetype_id": "8"
     },
     {
+        "created": "20150414192317730",
+        "text": "Ce large golfe forme l'extrémité nord de la Mer des Linceuls, bordé par la côte du Reizh.",
+        "categorie": "cartographie",
+        "faction_id": "4",
+        "id": "50",
+        "map_id": "1",
+        "modified": "20151115192525279",
+        "status": "done",
+        "tags": "zones",
+        "title": "Golfe de Reizh",
+        "zoneparent_id": "36",
+        "zonetype_id": "13"
+    },
+    {
+        "created": "20150331111232408",
+        "text": "Ces marais moroses représentent une des rares sources de sel de toute la péninsule, et font toute la richesse du duché de Salann Tir. Les nombreux renégats qui s'y cachent, dans des ruines ou les villages les plus pauvres, se sont organisés en une bande, surnommée les \"Roseaux de fer\".",
+        "categorie": "cartographie",
+        "faction_id": "12",
+        "id": "51",
+        "map_id": "1",
+        "modified": "20151115192446383",
+        "status": "done",
+        "tags": "zones",
+        "title": "Marais du Ponant",
+        "zoneparent_id": "25",
+        "zonetype_id": "9"
+    },
+    {
         "text": "Cette région de l'ouest de Gwidre mérite véritablement son nom, tant elle est le grenier du royaume. Malgré le climat rude dû à l'exposition aux vents froids, les canaux d'irrigation aménagés autour du fleuve Pezhdour ont rendu ces plaines fertiles, et les denrées produites dans ses nombreux petits villages sont acheminées jusqu'aux provinces montagneuses.",
         "categorie": "cartographie",
         "created": "20150402181830903",
@@ -1049,34 +1105,6 @@
         "title": "Région d'Abondance",
         "zoneparent_id": "56",
         "zonetype_id": "17"
-    },
-    {
-        "text": "Cette formation rocheuse a la particularité d'être presque parfaitement circulaire. Ceux qui s'y sont rendus n'y ont rien vu sortant de l'ordinaire, contrairement à ce que clamait son découvreur Pelfreinth Argoneskan.",
-        "categorie": "cartographie",
-        "created": "20150326114406407",
-        "faction_id": "4",
-        "id": "54",
-        "map_id": "1",
-        "modified": "20150924113023827",
-        "status": "done",
-        "tags": "zones",
-        "title": "Cirque d'Argoneskan",
-        "zoneparent_id": "39",
-        "zonetype_id": "10"
-    },
-    {
-        "text": "Ces gouffres, faisant aussi office de passage à travers la chaîne des Mòr Roimh dans les Terre de Dèas, sont surnommé \"Sianail\" par les Osags. Les hurlements du vent qui s'y engouffre ou de la redoutable faune locale n'ont définitivement rien de rassurant.",
-        "categorie": "cartographie",
-        "created": "20150330111310658",
-        "faction_id": "4",
-        "id": "55",
-        "map_id": "1",
-        "modified": "20150925103817840",
-        "status": "done",
-        "tags": "zones",
-        "title": "Failles Hurlantes",
-        "zoneparent_id": "39",
-        "zonetype_id": "11"
     },
     {
         "text": "Le royaume de Gwidre se situe au nord ouest de la péninsule de Tri-Kazel, séparé de Taol-Kaer par le fleuve Kreizhdour. Le roi actuel, Dalenverch IV, gouverne depuis la capitale Ard-Amrach un peuple d'environ six cent mille habitants. Il est aidé dans sa tâche par le Hiérophante Anthénor, chef suprême du Temple. Cette religion continentale du Dieu Unique est en effet devenue la foi officielle du royaume, et les demorthèn et les anciennes traditions y sont pourchassés.",
@@ -1093,20 +1121,6 @@
         "zonetype_id": "2"
     },
     {
-        "text": "Ce large golfe forme l'extrémité nord de la Mer des Linceuls, bordé par la côte du Reizh.",
-        "categorie": "cartographie",
-        "created": "20150414192317730",
-        "faction_id": "4",
-        "id": "57",
-        "map_id": "1",
-        "modified": "20150921105615751",
-        "status": "done",
-        "tags": "zones",
-        "title": "Golfe de Reizh",
-        "zoneparent_id": "36",
-        "zonetype_id": "13"
-    },
-    {
         "text": "Le royaume de Reizh se situe à l'est de la péninsule de Tri-Kazel, séparé de Taol-Kaer par le fleuve Tealderoth et du Continent par les immenses Monts Asgeamar. Bronchaerd, le roi actuel, gouverne depuis la capitale Baldh-Ruoch un peuple d'environ cinq cent mille habitants. Le royaume a accueilli favorablement les théories magientistes et la modernité qu'elle apportent, mais sa situation politique est délicate : si la principauté de Farl, au nord, est loyale au trône, ce n'est pas le cas des seigneurs féodaux du Croissant d’Émeraude, soutenus par les demorthèn.",
         "categorie": "cartographie",
         "created": "20150323160942160",
@@ -1119,20 +1133,6 @@
         "title": "Royaume de Reizh",
         "zoneparent_id": "id_Péninsule de Tri-Kazel",
         "zonetype_id": "2"
-    },
-    {
-        "text": "Ces marais moroses représentent une des rares sources de sel de toute la péninsule, et font toute la richesse du duché de Salann Tir. Les nombreux renégats qui s'y cachent, dans des ruines ou les villages les plus pauvres, se sont organisés en une bande, surnommée les \"Roseaux de fer\".",
-        "categorie": "cartographie",
-        "created": "20150331111232408",
-        "faction_id": "12",
-        "id": "58",
-        "map_id": "1",
-        "modified": "20150922103736766",
-        "status": "done",
-        "tags": "zones",
-        "title": "Marais du Ponant",
-        "zoneparent_id": "25",
-        "zonetype_id": "9"
     },
     {
         "text": "Le Boischandelles doit son nom aux nombreux feux-follets qu'on peut y apercevoir à la nuit tombée, ce qui rend cette forêt sacrée pour les demorthèn. Ce phénomène s'est toutefois raréfié ces dernières années, alors que les feondas sont de plus en plus présents dans les environs.",
@@ -1551,18 +1551,18 @@
         "zoneparent_id": "41"
     },
     {
+        "created": "20150327121455707",
         "text": "Un étrange château abandonné. Il est si ancien que personne ne se rappelle qui l'a érigé.",
         "categorie": "cartographie",
-        "created": "20150327121455707",
         "faction_id": "4",
         "id": "122",
         "map_id": "1",
         "markertype_id": "5",
-        "modified": "20150721191152782",
+        "modified": "20151115192505724",
         "status": "à revoir",
         "tags": "marqueurs",
         "title": "Castel des Roseaux",
-        "zoneparent_id": "58"
+        "zoneparent_id": "51"
     },
     {
         "text": "Cette forteresse située sur les terres de Dèas est entretenue et rénovée par les osags.",
@@ -2375,11 +2375,11 @@
         "id": "24",
         "map_id": "1",
         "markertype_id": "5",
-        "modified": "20150711170934861",
+        "modified": "20151005195614997",
         "status": "done",
         "tags": "marqueurs",
         "title": "Entrée du cirque d'Argoneskan",
-        "zoneparent_id": "54"
+        "zoneparent_id": "47"
     },
     {
         "text": "Cette petite cité sainte à l'extrême nord de Gwidre est un des principaux ports sur cette côte. Elle accueille le puissant ordre monastique du reliquaire, dont le recteur est le chef de l'ordre des moines. Les pèlerins affluent lorsque des reliques de saints, ordinairement conservées dans le monastère, sont exposées.",
@@ -3494,6 +3494,7 @@
         "categorie": "cartographie",
         "created": "20150318132437138",
         "faction_id": "2",
+        "guarded": "false",
         "id": "10",
         "itineraire": "Route des Cendres",
         "map_id": "1",
@@ -3504,14 +3505,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route des Cendres",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331121003351",
         "faction_id": "4",
+        "guarded": "false",
         "id": "100",
         "itineraire": "Route de l'Océan",
         "map_id": "1",
@@ -3522,14 +3523,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Océan (de Gorm Caladh à Saint Albérich)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331120829362",
         "faction_id": "4",
+        "guarded": "false",
         "id": "101",
         "itineraire": "Route de l'Océan",
         "map_id": "1",
@@ -3540,14 +3541,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Océan (de Saint Albérich à Aimliù)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331121541927",
         "faction_id": "10",
+        "guarded": "false",
         "id": "102",
         "itineraire": "Route de l'Océan",
         "map_id": "1",
@@ -3558,14 +3559,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Océan (de Tulg Naomh au bac)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331121412194",
         "faction_id": "10",
+        "guarded": "false",
         "id": "103",
         "itineraire": "Route de l'Océan",
         "map_id": "1",
@@ -3576,14 +3577,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Océan (du bac à Gorm Caladh)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331123756853",
         "faction_id": "14",
+        "guarded": "false",
         "id": "104",
         "itineraire": "Route des Hilderins",
         "map_id": "1",
@@ -3594,14 +3595,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route des Hilderins (d'Ostreach à Tilliarch)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150318164711547",
         "faction_id": "14",
+        "guarded": "false",
         "id": "105",
         "itineraire": "Route des Hilderins",
         "map_id": "1",
@@ -3612,14 +3613,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route des Hilderins (de Merieren à Ostreach)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331123715979",
         "faction_id": "14",
+        "guarded": "false",
         "id": "106",
         "itineraire": "Route des Hilderins",
         "map_id": "1",
@@ -3630,14 +3631,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route des Hilderins (de Tilliarch à la Citadelle de Dèas)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150723200434044",
         "faction_id": "11",
+        "guarded": "false",
         "id": "107",
         "itineraire": "",
         "map_id": "1",
@@ -3648,14 +3649,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route du port de Farl",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331123445546",
         "faction_id": "",
+        "guarded": "false",
         "id": "108",
         "map_id": "1",
         "markerend_id": "84",
@@ -3665,14 +3666,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin d'Ostreach à Cardach",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331114958392",
         "faction_id": "1",
+        "guarded": "false",
         "id": "109",
         "map_id": "1",
         "markerend_id": "170",
@@ -3682,14 +3683,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin gwidrite de Corvus à Kermordhran",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150330133957606",
         "faction_id": "11",
+        "guarded": "false",
         "id": "11",
         "itineraire": "Route royale (itinéraire)",
         "map_id": "1",
@@ -3700,14 +3701,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route royale (de Kalvernach à la demeure des Mac Baellec)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150721220949888",
         "faction_id": "1",
+        "guarded": "false",
         "id": "110",
         "itineraire": "Chemin de Norgord",
         "map_id": "1",
@@ -3718,14 +3719,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Norgord (de Kroazen aux carrières de Norgord)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Le route qui mène aux carrières de marbre blanc du plateau de Norgord a été financée par le clergé du Temple, qui l'apprécie pour la construction de ses églises.",
         "categorie": "cartographie",
         "created": "20150331115347013",
         "faction_id": "1",
+        "guarded": "false",
         "id": "111",
         "itineraire": "Chemin de Norgord",
         "map_id": "1",
@@ -3736,14 +3737,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Norgord (du carrefour du pic Ordachaï à Kroazen)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331124358528",
         "faction_id": "15",
+        "guarded": "false",
         "id": "112",
         "map_id": "1",
         "markerend_id": "96",
@@ -3753,14 +3754,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Terkhên à Melwan",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331122230161",
         "faction_id": "",
+        "guarded": "false",
         "id": "113",
         "map_id": "1",
         "markerend_id": "47",
@@ -3770,14 +3771,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Terkhên à Tulg Naomh",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331123855855",
         "faction_id": "15",
+        "guarded": "false",
         "id": "114",
         "map_id": "1",
         "markerend_id": "127",
@@ -3787,14 +3788,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Terkhên au Col de Lochre",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331123109083",
         "faction_id": "15",
+        "guarded": "false",
         "id": "115",
         "map_id": "1",
         "markerend_id": "160",
@@ -3804,14 +3805,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Tùrsal (des Salicornes au carrefour d'Eaux-Salées)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331123609811",
         "faction_id": "15",
+        "guarded": "false",
         "id": "116",
         "map_id": "1",
         "markerend_id": "160",
@@ -3821,14 +3822,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers la Citadelle de Dèas",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331122929744",
         "faction_id": "15",
+        "guarded": "false",
         "id": "117",
         "map_id": "1",
         "markerend_id": "133",
@@ -3838,14 +3839,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Tùrsal (du carrefour d'Eaux-Salées à Louarn)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331130711257",
         "faction_id": "",
+        "guarded": "false",
         "id": "118",
         "map_id": "1",
         "markerend_id": "63",
@@ -3855,14 +3856,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Brégan à Koskan",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331130632674",
         "faction_id": "",
+        "guarded": "false",
         "id": "119",
         "map_id": "1",
         "markerend_id": "8",
@@ -3872,14 +3873,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Brégan à Osta-Baille",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150330134231644",
         "faction_id": "4",
+        "guarded": "false",
         "id": "12",
         "itineraire": "",
         "map_id": "1",
@@ -3890,14 +3891,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin d'Afalinn",
-        "zoneparent_id": "57",
-        "guarded": "false"
+        "zoneparent_id": "57"
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331115926300",
         "faction_id": "",
+        "guarded": "false",
         "id": "120",
         "map_id": "1",
         "markerend_id": "35",
@@ -3907,14 +3908,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Crail à Gline",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331131112901",
         "faction_id": "",
+        "guarded": "false",
         "id": "121",
         "map_id": "1",
         "markerend_id": "73",
@@ -3924,14 +3925,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Kaer Daegis à Kel Loar",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331131012877",
         "faction_id": "",
+        "guarded": "false",
         "id": "122",
         "map_id": "1",
         "markerend_id": "72",
@@ -3941,14 +3942,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Kaer Daegis à Seòl",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331131230901",
         "faction_id": "",
+        "guarded": "false",
         "id": "123",
         "map_id": "1",
         "markerend_id": "11",
@@ -3958,14 +3959,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Kel Loar au Pont de l'Alliance",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Le développement de cette route reliant Farl à Kell est un enjeu économique pour cette dernière.",
         "categorie": "cartographie",
         "created": "20150318162550775",
         "faction_id": "",
+        "guarded": "false",
         "id": "124",
         "map_id": "1",
         "markerend_id": "21",
@@ -3975,14 +3976,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Kell à Farl",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331130522964",
         "faction_id": "",
+        "guarded": "false",
         "id": "125",
         "map_id": "1",
         "markerend_id": "35",
@@ -3992,14 +3993,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route du Carrefour de Ruel à Gline",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331130317573",
         "faction_id": "",
+        "guarded": "false",
         "id": "126",
         "map_id": "1",
         "markerend_id": "60",
@@ -4009,14 +4010,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route du Carrefour de Ruel à Mùdan",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route relie Kermordhran au Clos-des-Cendres. Des angardes bien entretenues la jalonnent, et des patrouilles la parcourent régulièrement.",
         "categorie": "cartographie",
         "created": "20150318133608398",
         "faction_id": "2",
+        "guarded": "false",
         "id": "13",
         "itineraire": "Route de la mer",
         "map_id": "1",
@@ -4027,14 +4028,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de la mer (de Kermordhran au carrefour du cirque d'Argoneskan)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route qui relie Fionnfuar et Farl, dont les habitants l'appellent aussi \"Route de l'ouest\" ou \"Route marine\", est moins développée du côté gwidrite.",
         "categorie": "cartographie",
         "created": "20150330134443768",
         "faction_id": "1",
+        "guarded": "false",
         "id": "14",
         "itineraire": "Route des Cendres",
         "map_id": "1",
@@ -4045,14 +4046,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Farl",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Aussi appelé \"passage des Brumes\", ce sentier est la plus ancienne voie connue pour traverser les montagnes, aussi spectaculaire que dangereuse.",
         "categorie": "cartographie",
         "created": "20150327114440646",
         "faction_id": "15",
+        "guarded": "false",
         "id": "146",
         "map_id": "1",
         "markerend_id": "159",
@@ -4062,14 +4063,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier d'Aisir Ceòmhor",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150823095607415",
         "faction_id": "15",
+        "guarded": "false",
         "id": "147",
         "itineraire": "",
         "map_id": "1",
@@ -4081,14 +4082,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin d'Aisir Ceòmhor au col de l'Artz",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331123339344",
         "faction_id": "15",
+        "guarded": "false",
         "id": "148",
         "map_id": "1",
         "markerend_id": "130",
@@ -4098,14 +4099,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Cardach à la Brèche du loup",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331124717534",
         "faction_id": "15",
+        "guarded": "false",
         "id": "149",
         "map_id": "1",
         "markerend_id": "49",
@@ -4115,14 +4116,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Dearg à Fearìl",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331124838122",
         "faction_id": "15",
+        "guarded": "false",
         "id": "150",
         "map_id": "1",
         "markerend_id": "51",
@@ -4132,14 +4133,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Dearg à Loch Varn",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150823095712535",
         "faction_id": "15",
+        "guarded": "false",
         "id": "151",
         "itineraire": "",
         "map_id": "1",
@@ -4151,14 +4152,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier de Didean à Aisir Ceòmhor",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150409120858799",
         "faction_id": "14",
+        "guarded": "false",
         "id": "152",
         "map_id": "1",
         "markerend_id": "50",
@@ -4168,13 +4169,13 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Fearìl à la forteresse de Smiorail",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "faction_id": "15",
+        "guarded": "false",
         "id": "153",
         "itineraire": "",
         "map_id": "1",
@@ -4186,14 +4187,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de l'abbaye de Corvus à la route du Dorchwald",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331123158011",
         "faction_id": "15",
+        "guarded": "false",
         "id": "154",
         "map_id": "1",
         "markerend_id": "92",
@@ -4203,14 +4204,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de la Brèche du loup à Deanaidh",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150823075449634",
         "faction_id": "14",
+        "guarded": "false",
         "id": "155",
         "itineraire": "",
         "map_id": "1",
@@ -4222,14 +4223,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de la forteresse de Smiorail au Col de Lantrech",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331120029388",
         "faction_id": "15",
+        "guarded": "false",
         "id": "156",
         "map_id": "1",
         "markerend_id": "71",
@@ -4239,14 +4240,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du carrefour gwidrite d'Aelwyd Saogh à Expiation",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331125215597",
         "faction_id": "15",
+        "guarded": "false",
         "id": "157",
         "map_id": "1",
         "markerend_id": "52",
@@ -4256,14 +4257,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Loch Varn au Col d'Oerdh",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331124536269",
         "faction_id": "15",
+        "guarded": "false",
         "id": "158",
         "map_id": "1",
         "markerend_id": "48",
@@ -4273,14 +4274,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Melwan à Dearg",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331125030650",
         "faction_id": "15",
+        "guarded": "false",
         "id": "159",
         "map_id": "1",
         "markerend_id": "51",
@@ -4290,14 +4291,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Melwan à Loch Varn",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Ce chemin permet de joindre Nectan à Deh'ad. Moins utilisé que la célèbre Voie sainte, il suit la lisière entre la forêt du Dorchwald et les contreforts des Mòr Roimh.",
         "categorie": "cartographie",
         "created": "20150330134621191",
         "faction_id": "15",
+        "guarded": "false",
         "id": "16",
         "itineraire": "Route du Dorchwald",
         "map_id": "1",
@@ -4308,14 +4309,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Route du Dorchwald (de Nectan à Lenbach)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906134754457",
         "faction_id": "15",
+        "guarded": "false",
         "id": "160",
         "itineraire": "",
         "map_id": "1",
@@ -4327,14 +4328,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Terkhên à Frendian",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150823084641737",
         "faction_id": "15",
+        "guarded": "false",
         "id": "161",
         "itineraire": "",
         "map_id": "1",
@@ -4346,13 +4347,13 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du col d'Oerdh à la route des Hilderins",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "faction_id": "15",
+        "guarded": "false",
         "id": "162",
         "itineraire": "",
         "map_id": "1",
@@ -4364,14 +4365,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du col de l'Artz à Tilliarch",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331124108413",
         "faction_id": "15",
+        "guarded": "false",
         "id": "163",
         "map_id": "1",
         "markerend_id": "id_Aisir Ceòmhor (est)",
@@ -4381,14 +4382,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du col de Lochre à Aisir Ceòmhor",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150823071015542",
         "faction_id": "15",
+        "guarded": "false",
         "id": "164",
         "itineraire": "",
         "map_id": "1",
@@ -4400,14 +4401,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers Jarnel",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150823090035289",
         "faction_id": "9",
+        "guarded": "false",
         "id": "165",
         "itineraire": "",
         "map_id": "1",
@@ -4419,14 +4420,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers les carrières d'Arden",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150409123253122",
         "faction_id": "4",
+        "guarded": "false",
         "id": "166",
         "map_id": "1",
         "markerend_id": "105",
@@ -4436,14 +4437,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "De Seòl à Smàrag en char à voile",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150409124212662",
         "faction_id": "4",
+        "guarded": "false",
         "id": "167",
         "map_id": "1",
         "markerend_id": "63",
@@ -4453,14 +4454,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "De Smàrag à Koskan en char à voile",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331122429397",
         "faction_id": "15",
+        "guarded": "false",
         "id": "168",
         "map_id": "1",
         "markerend_id": "122",
@@ -4470,14 +4471,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Piste des Roseaux",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150823090629471",
         "faction_id": "13",
+        "guarded": "false",
         "id": "169",
         "itineraire": "",
         "map_id": "1",
@@ -4489,14 +4490,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Ouest (de Crail à Leacach)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Ce chemin poussiéreux mène, à travers un paysage accidenté, au manoir des Hauts-Vents.",
         "categorie": "cartographie",
         "created": "20150322085613795",
         "faction_id": "15",
+        "guarded": "false",
         "id": "17",
         "itineraire": "",
         "map_id": "1",
@@ -4507,14 +4508,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Chemin des Hauts-Vents",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Ce chemin permet de joindre Nectan à Deh'ad. Moins utilisé que la célèbre Voie sainte, il suit la lisière entre la forêt du Dorchwald et les contreforts des Mòr Roimh.",
         "categorie": "cartographie",
         "created": "20150823081110171",
         "faction_id": "15",
+        "guarded": "false",
         "id": "170",
         "itineraire": "Route du Dorchwald",
         "map_id": "1",
@@ -4526,14 +4527,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Route du Dorchwald (du carrefour de Corvus au carrefour des Pierres Brisées)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route, qui mène de Baldh-Ruoch à Kell en traversant la forêt de Taelwald, est un sujet de tension entre les magientistes, qui souhaiteraient la développer pour favoriser l'essor économique de Kell, et les demorthèn, qui veulent protéger la forêt.",
         "categorie": "cartographie",
         "created": "20150318135204506",
         "faction_id": "11",
+        "guarded": "false",
         "id": "171",
         "map_id": "1",
         "markerend_id": "147",
@@ -4543,13 +4544,13 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route du Taelwald (de Baldh-Ruoch au carrefour de l'Arbre de l'Automne)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route, qui mène de Baldh-Ruoch à Kell en traversant la forêt de Taelwald, est un sujet de tension entre les magientistes, qui souhaiteraient la développer pour favoriser l'essor économique de Kell, et les demorthèn, qui veulent protéger la forêt.",
         "categorie": "cartographie",
         "faction_id": "11",
+        "guarded": "false",
         "id": "172",
         "itineraire": "",
         "map_id": "1",
@@ -4561,13 +4562,13 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route du Taelwald (du carrefour de l'Arbre de l'Automne à Kell)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "faction_id": "3",
+        "guarded": "false",
         "id": "173",
         "itineraire": "",
         "map_id": "1",
@@ -4579,14 +4580,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier vers l'Arbre de l'Automne",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Comme le cours du Donir n'est pas navigable, une route longe le fleuve afin de rejoindre la capitale Baldh-Ruoch depuis le port d'Ear Caladh.",
         "categorie": "cartographie",
         "created": "20150403140839944",
         "faction_id": "13",
+        "guarded": "false",
         "id": "174",
         "map_id": "1",
         "markerend_id": "42",
@@ -4596,14 +4597,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Voie du Donir (de Baldh-Ruoch à Ear Caladh)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150823091831408",
         "faction_id": "15",
+        "guarded": "false",
         "id": "175",
         "itineraire": "",
         "map_id": "1",
@@ -4615,14 +4616,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Voie du Kreizhdour (d'Arngyll au bac)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150823091824034",
         "faction_id": "15",
+        "guarded": "false",
         "id": "176",
         "itineraire": "",
         "map_id": "1",
@@ -4634,14 +4635,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Voie du Kreizhdour (de Fearìl au col de Siagal)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331125431666",
         "faction_id": "15",
+        "guarded": "false",
         "id": "177",
         "map_id": "1",
         "markerend_id": "164",
@@ -4651,14 +4652,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Caiginn au carrefour de Thòl",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829141837745",
         "faction_id": "15",
+        "guarded": "false",
         "id": "178",
         "itineraire": "",
         "map_id": "1",
@@ -4670,14 +4671,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Tùrsal (de Deanaidh aux Salicornes)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829143910887",
         "faction_id": "15",
+        "guarded": "false",
         "id": "179",
         "itineraire": "",
         "map_id": "1",
@@ -4689,14 +4690,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du bac du Kreizhdour à Mambrun",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Les ouvriers qui empruntent ce chemin pour travailler aux mines de Promesse sont escortés par des hommes d'armes, en raison des raids fréquents menés par les clans osags.",
         "categorie": "cartographie",
         "created": "20150330135135488",
         "faction_id": "2",
+        "guarded": "false",
         "id": "18",
         "map_id": "1",
         "markerend_id": "38",
@@ -4706,14 +4707,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Chemin des mines de Promesse",
-        "zoneparent_id": "57",
-        "guarded": "false"
+        "zoneparent_id": "57"
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829145558904",
         "faction_id": "15",
+        "guarded": "false",
         "id": "180",
         "itineraire": "",
         "map_id": "1",
@@ -4725,14 +4726,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Thòl au carrefour de Thòl",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette ancienne route traverse la forêt des Soupirs et permet de rejoindre Terkhên.",
         "categorie": "cartographie",
         "created": "20150829144642730",
         "faction_id": "15",
+        "guarded": "false",
         "id": "181",
         "itineraire": "",
         "map_id": "1",
@@ -4744,14 +4745,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du carrefour de Laräch à Terkhên",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829150038666",
         "faction_id": "1",
+        "guarded": "false",
         "id": "182",
         "itineraire": "",
         "map_id": "1",
@@ -4763,14 +4764,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du carrefour de Thòl à Expiation",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829145408462",
         "faction_id": "15",
+        "guarded": "false",
         "id": "183",
         "itineraire": "",
         "map_id": "1",
@@ -4782,14 +4783,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du col de Lantrech à Thòl",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829150423510",
         "faction_id": "15",
+        "guarded": "false",
         "id": "184",
         "itineraire": "",
         "map_id": "1",
@@ -4801,14 +4802,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers Gleb",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829154300174",
         "faction_id": "15",
+        "guarded": "false",
         "id": "185",
         "itineraire": "",
         "map_id": "1",
@@ -4820,14 +4821,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers Helefrt",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829150236706",
         "faction_id": "9",
+        "guarded": "false",
         "id": "186",
         "itineraire": "",
         "map_id": "1",
@@ -4839,14 +4840,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers la citadelle de Kermordhran",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829142803299",
         "faction_id": "9",
+        "guarded": "false",
         "id": "187",
         "itineraire": "",
         "map_id": "1",
@@ -4858,14 +4859,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers le château des Mac Readan",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829142914432",
         "faction_id": "9",
+        "guarded": "false",
         "id": "188",
         "itineraire": "",
         "map_id": "1",
@@ -4877,14 +4878,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers le château des Mac Tremen",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829150340903",
         "faction_id": "15",
+        "guarded": "false",
         "id": "189",
         "itineraire": "",
         "map_id": "1",
@@ -4896,14 +4897,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers le château des Roharën",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829145508144",
         "faction_id": "1",
+        "guarded": "false",
         "id": "190",
         "itineraire": "",
         "map_id": "1",
@@ -4915,14 +4916,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers le monastère de Tuath",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829141120623",
         "faction_id": "3",
+        "guarded": "false",
         "id": "191",
         "itineraire": "",
         "map_id": "1",
@@ -4934,14 +4935,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers les alignements de Tùrsal",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829182612831",
         "faction_id": "11",
+        "guarded": "false",
         "id": "192",
         "itineraire": "",
         "map_id": "1",
@@ -4953,14 +4954,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de la côte d'Émeraude (de Nua Caladh au pont de Brian'ch)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829154201559",
         "faction_id": "15",
+        "guarded": "false",
         "id": "193",
         "itineraire": "",
         "map_id": "1",
@@ -4972,14 +4973,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route du Grand Est (du carrefour de Gleb à Iolairnead)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829182209295",
         "faction_id": "11",
+        "guarded": "false",
         "id": "194",
         "itineraire": "Route royale (itinéraire)",
         "map_id": "1",
@@ -4991,14 +4992,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route royale (d'Afalinn au pont sur le Donir de Kember)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829181912637",
         "faction_id": "11",
+        "guarded": "false",
         "id": "195",
         "itineraire": "Route royale (itinéraire)",
         "map_id": "1",
@@ -5010,14 +5011,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route royale (du carrefour de Promesse à Afalinn)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150805122153565",
         "faction_id": "9",
+        "guarded": "false",
         "id": "196",
         "itineraire": "Route royale (itinéraire)",
         "map_id": "1",
@@ -5029,14 +5030,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route royale (du pont de Brian'ch à Baldh-Ruoch)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829143804964",
         "faction_id": "15",
+        "guarded": "false",
         "id": "197",
         "itineraire": "",
         "map_id": "1",
@@ -5048,14 +5049,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier de Mambrun à Helefrt",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829144836802",
         "faction_id": "15",
+        "guarded": "false",
         "id": "198",
         "itineraire": "",
         "map_id": "1",
@@ -5067,14 +5068,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier vers les ruines du château des Mac Farquam",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829152942242",
         "faction_id": "15",
+        "guarded": "false",
         "id": "199",
         "itineraire": "",
         "map_id": "1",
@@ -5086,14 +5087,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Voie de l'Oëss (de Kermordhran à Kember)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829183619741",
         "faction_id": "11",
+        "guarded": "false",
         "id": "200",
         "itineraire": "",
         "map_id": "1",
@@ -5105,14 +5106,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Voie du Donir (du pont sur l'Oëss de Kember à Baldh-Ruoch)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829144449794",
         "faction_id": "15",
+        "guarded": "false",
         "id": "201",
         "itineraire": "",
         "map_id": "1",
@@ -5124,14 +5125,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Voie du Kreizhdour (de Telh au carrefour de Laräch)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829144354634",
         "faction_id": "15",
+        "guarded": "false",
         "id": "202",
         "itineraire": "",
         "map_id": "1",
@@ -5143,14 +5144,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Voie du Kreizhdour (du carrefour d'Helefrt à Telh)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829144538019",
         "faction_id": "15",
+        "guarded": "false",
         "id": "203",
         "itineraire": "",
         "map_id": "1",
@@ -5162,14 +5163,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Voie du Kreizhdour (du carrefour de Laräch à Arngyll)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829144214552",
         "faction_id": "15",
+        "guarded": "false",
         "id": "204",
         "itineraire": "",
         "map_id": "1",
@@ -5181,14 +5182,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Voie du Kreizhdour (du col de Siagal au carrefour d'Helefrt)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906133758467",
         "faction_id": "",
+        "guarded": "false",
         "id": "205",
         "itineraire": "",
         "map_id": "1",
@@ -5200,14 +5201,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Canal des marécages gris (de Tuaille au carrefour du sud de Déas)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
-        "created": "20150906134218571",
         "text": "",
         "categorie": "cartographie",
+        "created": "20150906134218571",
         "faction_id": "",
+        "guarded": "false",
         "id": "206",
         "itineraire": "",
         "map_id": "1",
@@ -5219,14 +5220,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Canal des marécages gris d'Ostreach",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906134123128",
         "faction_id": "",
+        "guarded": "false",
         "id": "207",
         "itineraire": "",
         "map_id": "1",
@@ -5238,14 +5239,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Canal des marécages gris de Cardach",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906134028194",
         "faction_id": "",
+        "guarded": "false",
         "id": "208",
         "itineraire": "",
         "map_id": "1",
@@ -5257,14 +5258,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Canal des marécages gris de Merieren",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906133918451",
         "faction_id": "",
+        "guarded": "false",
         "id": "209",
         "itineraire": "",
         "map_id": "1",
@@ -5276,14 +5277,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Canal des marécages gris de Tuaille",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "La Voie sainte relie la capitale gwidrite, Ard-Amrach, à la ville sainte de Fionnfuar.",
         "categorie": "cartographie",
         "created": "20150330135431438",
         "faction_id": "1",
+        "guarded": "false",
         "id": "21",
         "itineraire": "Voie sainte",
         "map_id": "1",
@@ -5294,14 +5295,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Voie sainte (d'Ard-Amrach à Nectan)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906134313032",
         "faction_id": "",
+        "guarded": "false",
         "id": "210",
         "itineraire": "",
         "map_id": "1",
@@ -5313,14 +5314,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Canal des marécages gris du sud de Déas",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906155810497",
         "faction_id": "15",
+        "guarded": "false",
         "id": "211",
         "itineraire": "",
         "map_id": "1",
@@ -5332,14 +5333,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin d'Osta-Baille au carrefour de Calhtair",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906132016411",
         "faction_id": "11",
+        "guarded": "false",
         "id": "212",
         "itineraire": "",
         "map_id": "1",
@@ -5351,14 +5352,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Cardach au carrefour du sud de Déas",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906132812821",
         "faction_id": "15",
+        "guarded": "false",
         "id": "213",
         "itineraire": "",
         "map_id": "1",
@@ -5370,14 +5371,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Diinthër à Rhingal",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906135620689",
         "faction_id": "15",
+        "guarded": "false",
         "id": "214",
         "itineraire": "",
         "map_id": "1",
@@ -5389,14 +5390,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Iolairnead au carrefour du Gouffre Carmin",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906133145842",
         "faction_id": "15",
+        "guarded": "false",
         "id": "215",
         "itineraire": "",
         "map_id": "1",
@@ -5408,14 +5409,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Kel Loar au carrefour d'Eschen",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906135530105",
         "faction_id": "15",
+        "guarded": "false",
         "id": "216",
         "itineraire": "",
         "map_id": "1",
@@ -5427,14 +5428,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Kell au carrefour du Gouffre Carmin",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906121724926",
         "faction_id": "15",
+        "guarded": "false",
         "id": "217",
         "itineraire": "",
         "map_id": "1",
@@ -5446,14 +5447,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Leacach au carrefour reizhite vers Aelwyd Saogh",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829144013715",
         "faction_id": "15",
+        "guarded": "false",
         "id": "218",
         "itineraire": "",
         "map_id": "1",
@@ -5465,14 +5466,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Mambrun au carrefour de l'adret des Gisants",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906155731277",
         "faction_id": "15",
+        "guarded": "false",
         "id": "219",
         "itineraire": "",
         "map_id": "1",
@@ -5484,14 +5485,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Smàrag au carrefour de Calhtair",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906134718318",
         "faction_id": "15",
+        "guarded": "false",
         "id": "220",
         "itineraire": "",
         "map_id": "1",
@@ -5503,14 +5504,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Terkhên au carrefour à l'est de Terkhên",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906120728310",
         "faction_id": "15",
+        "guarded": "false",
         "id": "221",
         "itineraire": "",
         "map_id": "1",
@@ -5522,14 +5523,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Thòl à Caiginn",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906133226664",
         "faction_id": "15",
+        "guarded": "false",
         "id": "222",
         "itineraire": "",
         "map_id": "1",
@@ -5541,14 +5542,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du carrefour d'Eschen à Seòl",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906132053516",
         "faction_id": "11",
+        "guarded": "false",
         "id": "223",
         "itineraire": "",
         "map_id": "1",
@@ -5560,14 +5561,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du carrefour de Còmhlan à Iolach",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906132508121",
         "faction_id": "11",
+        "guarded": "false",
         "id": "224",
         "itineraire": "",
         "map_id": "1",
@@ -5579,14 +5580,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du carrefour du sud de Déas au carrefour de Còmhlan",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906122038917",
         "faction_id": "15",
+        "guarded": "false",
         "id": "225",
         "itineraire": "",
         "map_id": "1",
@@ -5598,14 +5599,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du carrefour reizhite au carrefour gwidrite d'Alwyd Saogh",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829202813818",
         "faction_id": "15",
+        "guarded": "false",
         "id": "226",
         "itineraire": "",
         "map_id": "1",
@@ -5617,14 +5618,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du Gué Sanglant au carrefour entre Corvus et Kermordhran",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Après cinq siècles d'abandon, la route qui permettait au roi de Gwidre de se rendre à la citadelle d'Aelwyd Saogh n'est plus guère qu'un chemin que le temps et les éléments peuvent avoir rendu hasardeux.",
         "categorie": "cartographie",
         "created": "20150406215115144",
         "faction_id": "15",
+        "guarded": "false",
         "id": "227",
         "map_id": "1",
         "markerend_id": "80",
@@ -5634,14 +5635,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin gwidrite vers Aelwyd Saogh",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906140926032",
         "faction_id": "15",
+        "guarded": "false",
         "id": "228",
         "itineraire": "",
         "map_id": "1",
@@ -5653,14 +5654,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin reizhite de Corvus à Kermordhran",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Après cinq siècles d'abandon, la route qui permettait au roi de Reizh de se rendre à la citadelle d'Aelwyd Saogh n'est plus guère qu'un chemin que le temps et les éléments peuvent avoir rendu hasardeux.",
         "categorie": "cartographie",
         "created": "20150406215106654",
         "faction_id": "15",
+        "guarded": "false",
         "id": "229",
         "map_id": "1",
         "markerend_id": "80",
@@ -5670,14 +5671,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin reizhite vers Aelwyd Saogh",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "La Voie sainte relie la capitale gwidrite, Ard-Amrach, à la ville sainte de Fionnfuar.",
         "categorie": "cartographie",
         "created": "20150330135537466",
         "faction_id": "1",
+        "guarded": "false",
         "id": "23",
         "itineraire": "Voie sainte",
         "map_id": "1",
@@ -5688,14 +5689,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Voie sainte (de Nectan à Gouvran)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Après cinq siècles d'abandon, la route qui permettait au roi de Taol-Kaer de se rendre à la citadelle d'Aelwyd Saogh n'est plus guère qu'un chemin que le temps et les éléments peuvent avoir rendu hasardeux.",
         "categorie": "cartographie",
         "created": "20150829143645055",
         "faction_id": "15",
+        "guarded": "false",
         "id": "230",
         "itineraire": "",
         "map_id": "1",
@@ -5707,14 +5708,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin talkéride vers Aelwyd Saogh (d'Ard-Monach au col de Brorann)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Après cinq siècles d'abandon, la route qui permettait au roi de Taol-Kaer de se rendre à la citadelle d'Aelwyd Saogh n'est plus guère qu'un chemin que le temps et les éléments peuvent avoir rendu hasardeux.",
         "categorie": "cartographie",
         "created": "20150406214104526",
         "faction_id": "15",
+        "guarded": "false",
         "id": "231",
         "map_id": "1",
         "markerend_id": "80",
@@ -5724,14 +5725,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin talkéride vers Aelwyd Saogh (du col de Brorann à Aelwyd Saogh)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906132205964",
         "faction_id": "3",
+        "guarded": "false",
         "id": "232",
         "itineraire": "",
         "map_id": "1",
@@ -5743,14 +5744,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin vers Còmhlan",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150829150655002",
         "faction_id": "15",
+        "guarded": "false",
         "id": "233",
         "itineraire": "",
         "map_id": "1",
@@ -5762,14 +5763,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Gwidre (du Gué Sanglant à l'abbaye de Corvus)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906140416280",
         "faction_id": "15",
+        "guarded": "false",
         "id": "234",
         "itineraire": "",
         "map_id": "1",
@@ -5781,14 +5782,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route marine (du Clos-des-Cendres au carrefour des Cendres)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906135012864",
         "faction_id": "1",
+        "guarded": "false",
         "id": "235",
         "itineraire": "",
         "map_id": "1",
@@ -5800,14 +5801,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier côtier de Calvaire (de Saint Arpan à Sainte Nihesk)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906135154886",
         "faction_id": "1",
+        "guarded": "false",
         "id": "236",
         "itineraire": "",
         "map_id": "1",
@@ -5819,14 +5820,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier côtier de Calvaire (de Saint Heskenen à Saint Persked)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906135112694",
         "faction_id": "1",
+        "guarded": "false",
         "id": "237",
         "itineraire": "",
         "map_id": "1",
@@ -5838,14 +5839,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier côtier de Calvaire (de Sainte Nihesk à Saint Heskenen)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906135352256",
         "faction_id": "1",
+        "guarded": "false",
         "id": "238",
         "itineraire": "",
         "map_id": "1",
@@ -5857,14 +5858,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier côtier de Calvaire (du phare sud à Saint Arpan)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906141123924",
         "faction_id": "15",
+        "guarded": "false",
         "id": "239",
         "itineraire": "",
         "map_id": "1",
@@ -5876,14 +5877,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier de Frendian à Osta-Baille",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "La Voie sainte relie la capitale gwidrite, Ard-Amrach, à la ville sainte de Fionnfuar.",
         "categorie": "cartographie",
         "created": "20150330135625919",
         "faction_id": "1",
+        "guarded": "false",
         "id": "24",
         "itineraire": "Voie sainte",
         "map_id": "1",
@@ -5894,14 +5895,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Voie sainte (de Gouvran à Deh'ad)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906135713087",
         "faction_id": "4",
+        "guarded": "false",
         "id": "240",
         "itineraire": "",
         "map_id": "1",
@@ -5913,14 +5914,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier de la source aux Fols",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906155937321",
         "faction_id": "15",
+        "guarded": "false",
         "id": "241",
         "itineraire": "",
         "map_id": "1",
@@ -5932,14 +5933,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier du carrefour de Calhtair et Kaer Daegis",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150906133101741",
         "faction_id": "15",
+        "guarded": "false",
         "id": "242",
         "itineraire": "",
         "map_id": "1",
@@ -5951,14 +5952,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier vers l'îlot d'Eschen",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150322085917520",
         "faction_id": "15",
+        "guarded": "false",
         "id": "25",
         "itineraire": "",
         "map_id": "1",
@@ -5969,14 +5970,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Gwidre (du château des Mac Emmanon au Gué Sanglant)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150330135955989",
         "faction_id": "11",
+        "guarded": "false",
         "id": "26",
         "itineraire": "Route royale (itinéraire)",
         "map_id": "1",
@@ -5987,14 +5988,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route royale (de la demeure des Mac Baellec au carrefour de Promesse)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Les seigneurs du Croissant d'Émeraude imposent de nombreuses taxes le long de cette route, et ils n'hésitent pas à infliger des vexations aux voyageurs liées à la couronne reizhite, aussi bien marchands que magientistes.",
         "categorie": "cartographie",
         "created": "20150330140341240",
         "faction_id": "11",
+        "guarded": "false",
         "id": "27",
         "map_id": "1",
         "markerend_id": "98",
@@ -6004,14 +6005,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de la côte d'Émeraude (du carrefour de l'entrée du Reizh à Nua Caladh)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150330140617035",
         "faction_id": "13",
+        "guarded": "false",
         "id": "28",
         "map_id": "1",
         "markerend_id": "34",
@@ -6021,14 +6022,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Ouest (de Kalvernach à Crail)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route est très fréquentée par les chevaliers hilderins, notamment entre Osta-Baille et Ard-Monach. Au-delà, vers Caiginn, la route n'est pas toujours pavée.",
         "categorie": "cartographie",
         "created": "20150305155218157",
         "faction_id": "14",
+        "guarded": "false",
         "id": "29",
         "itineraire": "Route des Hilderins",
         "map_id": "1",
@@ -6039,14 +6040,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Route des Hilderins (du carrefour de Frendian à Caiginn)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150330140740577",
         "faction_id": "15",
+        "guarded": "false",
         "id": "30",
         "map_id": "1",
         "markerend_id": "161",
@@ -6056,14 +6057,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route du Grand Est (de Farl au carrefour de Gleb)",
-        "zoneparent_id": "57",
-        "guarded": "false"
+        "zoneparent_id": "57"
     },
     {
         "text": "La longue piste qui mène au col de Gaos-Bodhar n'est pas entretenue, et ce voyage aux confins de la péninsule vers le Continent est aussi ardu que périlleux.",
         "categorie": "cartographie",
         "created": "20150330141021384",
         "faction_id": "15",
+        "guarded": "false",
         "id": "32",
         "map_id": "1",
         "markerend_id": "40",
@@ -6073,14 +6074,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Piste de l'ours blanc",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Bien que ce village pourrait être une étape sur les routes maritimes commerciales qui longent prudemment les côtes, les navigateurs évitent de relâcher à Aimliù dont les habitants ont sinistre réputation.",
         "categorie": "cartographie",
         "created": "20150428204739148",
         "faction_id": "4",
+        "guarded": "false",
         "id": "33",
         "map_id": "1",
         "markerend_id": "9",
@@ -6090,14 +6091,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Aimliù - Ard-Amrach",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Les capitaines qui assurent cette liaison commerciale prennent garde à longer les côtes pour ne pas braver les flots déchaînés de l'Océan Furieux.",
         "categorie": "cartographie",
         "created": "20150428205539823",
         "faction_id": "4",
+        "guarded": "false",
         "id": "34",
         "map_id": "1",
         "markerend_id": "25",
@@ -6107,14 +6108,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Ard-Amrach - Gouvran",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Le Clos-des-Cendres étant une ville dont l'existence sort petit à petit du secret, elle figure sur peu de cartes et toutes les voies maritimes n'y font pas escale. Il est assez fréquent qu'une banquise se forme en hiver.",
         "categorie": "cartographie",
         "created": "20150428211820353",
         "faction_id": "4",
+        "guarded": "false",
         "id": "35",
         "map_id": "1",
         "markerend_id": "139",
@@ -6124,14 +6125,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Clos-des-Cendres - Farl",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Les capitaines qui ont des relations à Ear Caladh, dont les taxes portuaires sont moins élevées qu'à son nouveau voisin, privilégient cette liaison commerciale, assurée par des koggens à la belle saison, quelquefois jusqu'en automne. Aux abords de l'embouchure du Tealderoth, les marins se méfient des sirènes auxquelles sont attribuées des disparitions régulières.",
         "categorie": "cartographie",
         "created": "20150425075356206",
         "faction_id": "4",
+        "guarded": "false",
         "id": "36",
         "map_id": "1",
         "markerend_id": "11",
@@ -6141,14 +6142,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Ear Caladh - Embouchure du Tealderoth",
-        "zoneparent_id": "36",
-        "guarded": "false"
+        "zoneparent_id": "36"
     },
     {
         "text": "Les capitaines qui assurent cette liaison commerciale prennent garde à longer les côtes pour ne pas braver les flots déchaînés de l'Océan Furieux.",
         "categorie": "cartographie",
         "created": "20150428202719194",
         "faction_id": "4",
+        "guarded": "false",
         "id": "37",
         "map_id": "1",
         "markerend_id": "45",
@@ -6158,14 +6159,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Embouchure du Kreizhdour - Gorm Caladh",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Des koggens assurent régulièrement cette liaison commerciale, mais seulement à la belle saison, quelquefois jusqu'en automne. Aux abords de l'embouchure du Tealderoth, les marins se méfient des sirènes auxquelles sont attribuées des disparitions régulières.",
         "categorie": "cartographie",
         "created": "20150425073828628",
         "faction_id": "4",
+        "guarded": "false",
         "id": "38",
         "map_id": "1",
         "markerend_id": "73",
@@ -6175,14 +6176,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Embouchure du Tealderoth - Kel Loar",
-        "zoneparent_id": "36",
-        "guarded": "false"
+        "zoneparent_id": "36"
     },
     {
         "text": "Le Clos-des-Cendres étant une ville dont l'existence sort petit à petit du secret, elle figure sur peu de cartes et toutes les voies maritimes n'y font pas escale. Il est assez fréquent qu'une banquise se forme en hiver.",
         "categorie": "cartographie",
         "created": "20150428211007359",
         "faction_id": "4",
+        "guarded": "false",
         "id": "39",
         "map_id": "1",
         "markerend_id": "19",
@@ -6192,14 +6193,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Fionnfuar - Clos-des-Cendres",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Cette route pavée relie l'ancienne capitale, Tuaille, à la nouvelle, Osta-Baille. Entretenue tant bien que mal par la guilde des Paveurs, elle traverse les marécages gris et passe par la ville de Merieren, à l'embouchure du Klaedhin. Elle est très fréquentée par les voyageurs et les caravanes, bien que ceux qui peuvent se le payer préfèrent naviguer sur le cours tranquille du fleuve.",
         "categorie": "cartographie",
         "created": "20150318164432547",
         "faction_id": "13",
+        "guarded": "false",
         "id": "4",
         "itineraire": "Route des capitales",
         "map_id": "1",
@@ -6210,14 +6211,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Route des capitales (de Tuaille à Merieren)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Les capitaines qui assurent cette liaison commerciale prennent garde à longer les côtes pour ne pas braver les flots déchaînés de l'Océan Furieux. Le Clos-des-Cendres étant une ville dont l'existence sort petit à petit du secret, elle figure sur peu de cartes et toutes les voies maritimes n'y font pas escale. Il est assez fréquent qu'une banquise se forme en hiver.",
         "categorie": "cartographie",
         "created": "20150720175451224",
         "faction_id": "4",
+        "guarded": "false",
         "id": "40",
         "map_id": "1",
         "markerend_id": "139",
@@ -6227,14 +6228,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Fionnfuar - Farl",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Bien que ce village pourrait être une étape sur les routes maritimes commerciales qui longent prudemment les côtes, les navigateurs évitent de relâcher à Aimliù dont les habitants ont sinistre réputation.",
         "categorie": "cartographie",
         "created": "20150428205101523",
         "faction_id": "4",
+        "guarded": "false",
         "id": "41",
         "map_id": "1",
         "markerend_id": "10",
@@ -6244,14 +6245,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Gorm Caladh - Aimliù",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Les capitaines qui assurent cette liaison commerciale prennent garde à longer les côtes pour ne pas braver les flots déchaînés de l'Océan Furieux, et évitent de relâcher à Aimliù dont les habitants ont sinistre réputation.",
         "categorie": "cartographie",
         "created": "20150428203411398",
         "faction_id": "4",
+        "guarded": "false",
         "id": "42",
         "map_id": "1",
         "markerend_id": "9",
@@ -6261,14 +6262,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Gorm Caladh - Ard-Amrach",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Les capitaines qui assurent cette liaison commerciale prennent garde à longer les côtes pour ne pas braver les flots déchaînés de l'Océan Furieux. Lors des hivers les plus froids, une banquise peut se former.",
         "categorie": "cartographie",
         "created": "20150428210234616",
         "faction_id": "4",
+        "guarded": "false",
         "id": "43",
         "map_id": "1",
         "markerend_id": "20",
@@ -6278,14 +6279,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Gouvran - Fionnfuar",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Des koggens assurent régulièrement cette liaison commerciale, mais seulement à la belle saison, quelquefois jusqu'en automne.",
         "categorie": "cartographie",
         "created": "20150425082300311",
         "faction_id": "4",
+        "guarded": "false",
         "id": "44",
         "map_id": "1",
         "markerend_id": "72",
@@ -6295,14 +6296,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Kel Loar - Seòl",
-        "zoneparent_id": "36",
-        "guarded": "false"
+        "zoneparent_id": "36"
     },
     {
         "text": "Les bateaux qui empruntent cette liaison maritime sont peu nombreux.",
         "categorie": "cartographie",
         "created": "20150425131147831",
         "faction_id": "4",
+        "guarded": "false",
         "id": "45",
         "map_id": "1",
         "markerend_id": "7",
@@ -6312,14 +6313,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Koskan - Tuaille",
-        "zoneparent_id": "36",
-        "guarded": "false"
+        "zoneparent_id": "36"
     },
     {
         "text": "Cette voie maritime permet au duché de Tulg d'exporter ses ressources minières et son bois. Le phare de Tulg Naomh est un point de repère très connu pour les navigateurs.",
         "categorie": "cartographie",
         "created": "20150428195946765",
         "faction_id": "4",
+        "guarded": "false",
         "id": "46",
         "map_id": "1",
         "markerend_id": "47",
@@ -6329,14 +6330,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Llewellen - Tulg Naomh",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Bien que plus lourdement taxée qu'à l'ancien port d'Ear Caladh devenu trop petit, cette liaison commerciale est la plus fréquente. Elle n'est assurée par des koggens qu'à la belle saison, quelquefois jusqu'en automne. Aux abords de l'embouchure du Tealderoth, les marins se méfient des sirènes auxquelles sont attribuées des disparitions régulières.",
         "categorie": "cartographie",
         "created": "20150425080824539",
         "faction_id": "4",
+        "guarded": "false",
         "id": "47",
         "map_id": "1",
         "markerend_id": "11",
@@ -6346,14 +6347,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Nua Caladh - Embouchure du Tealderoth",
-        "zoneparent_id": "36",
-        "guarded": "false"
+        "zoneparent_id": "36"
     },
     {
         "text": "Seuls les plus gros chargements de fret sont encore transportés par cette voie maritime, qui est concurrencée par les chars à voile qui acheminent bien plus rapidement et sûrement les passagers et les marchandises plus légères à travers les Grandes Plages.",
         "categorie": "cartographie",
         "created": "20150425124935882",
         "faction_id": "4",
+        "guarded": "false",
         "id": "48",
         "map_id": "1",
         "markerend_id": "105",
@@ -6363,14 +6364,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Seòl - Smàrag",
-        "zoneparent_id": "36",
-        "guarded": "false"
+        "zoneparent_id": "36"
     },
     {
         "text": "Seuls les plus gros chargements de fret sont encore transportés par cette voie maritime, qui est concurrencée par les chars à voile qui acheminent bien plus rapidement et sûrement les passagers et les marchandises plus légères à travers les Grandes Plages.",
         "categorie": "cartographie",
         "created": "20150425125837120",
         "faction_id": "4",
+        "guarded": "false",
         "id": "49",
         "map_id": "1",
         "markerend_id": "63",
@@ -6380,14 +6381,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Smàrag - Koskan",
-        "zoneparent_id": "36",
-        "guarded": "false"
+        "zoneparent_id": "36"
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150330132747983",
         "faction_id": "",
+        "guarded": "false",
         "id": "5",
         "map_id": "1",
         "markerend_id": "14",
@@ -6397,14 +6398,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Nord du Pont de l'Alliance",
-        "zoneparent_id": "57",
-        "guarded": "false"
+        "zoneparent_id": "57"
     },
     {
         "text": "Rares sont les bateaux qui naviguent jusqu'à Iolach, ce port de pêche ayant mauvaise réputation.",
         "categorie": "cartographie",
         "created": "20150425133525120",
         "faction_id": "4",
+        "guarded": "false",
         "id": "50",
         "map_id": "1",
         "markerend_id": "78",
@@ -6414,14 +6415,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Tuaille - Iolach",
-        "zoneparent_id": "36",
-        "guarded": "false"
+        "zoneparent_id": "36"
     },
     {
         "text": "Cette voie maritime permet au duché de Tulg d'exporter ses ressources minières et son bois. Le phare de Tulg Naomh est un point de repère très connu pour les navigateurs.",
         "categorie": "cartographie",
         "created": "20150428202334024",
         "faction_id": "4",
+        "guarded": "false",
         "id": "51",
         "map_id": "1",
         "markerend_id": "93",
@@ -6431,14 +6432,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison Tulg Naomh - Embouchure du Kreizhdour",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Rejoindre Calvaire ne peut se faire qu'en caraque à la fin de l'été, en profitant dans les derniers jours de Lunasdal d'un puissant courant maritime depuis l'embouchure du Pezhdour vers le nord-ouest. À condition que le capitaine parvienne à mettre son navire sous le vent qui lui permettra de sortir du courant et d'accoster sur la pointe nord de l'île, sous peine de se diriger irrémédiablement vers le grand large !",
         "categorie": "cartographie",
         "created": "20150713080221951",
         "faction_id": "1",
+        "guarded": "false",
         "id": "52",
         "itineraire": "Liaison vers Calvaire",
         "map_id": "1",
@@ -6449,14 +6450,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers Calvaire (de l'embouchure du Pezhdour au Roc)",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Si le capitaine de la caraque est parvenu sortir du courant vers le grand large pour rejoindre la pointe nord de l'île du Calvaire, il doit ensuite longer toute la côte ouest de l'île en évitant les écueils avant de pouvoir enfin passer la pointe sud et rejoindre des eaux relativement plus clémentes.",
         "categorie": "cartographie",
         "created": "20150523105009981",
         "faction_id": "1",
+        "guarded": "false",
         "id": "53",
         "itineraire": "Liaison vers Calvaire",
         "map_id": "1",
@@ -6467,14 +6468,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers Calvaire (de la pointe ouest à la pointe sud)",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Depuis les eaux relativement plus clémentes de la côte est de l'île, il est possible de rallier les quatre villages-monastères et de revenir sur la péninsule vers Gorm Caladh.",
         "categorie": "cartographie",
         "created": "20150523111710463",
         "faction_id": "1",
+        "guarded": "false",
         "id": "54",
         "itineraire": "Liaison vers Calvaire",
         "map_id": "1",
@@ -6485,14 +6486,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers Calvaire (de la pointe sud à Gorm Caladh)",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Une fois passée la pointe sud les eaux sont relativement plus clémentes. De là, il est possible de rallier les quatre villages-monastères et de revenir sur la péninsule vers Gorm Caladh.",
         "categorie": "cartographie",
         "created": "20150523111644476",
         "faction_id": "1",
+        "guarded": "false",
         "id": "55",
         "itineraire": "Liaison vers Calvaire",
         "map_id": "1",
@@ -6503,13 +6504,13 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers Calvaire (de la pointe sud à Saint Arpan)",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Une fois passée la pointe sud les eaux sont relativement plus clémentes. De là, il est possible de rallier les quatre villages-monastères et de revenir sur la péninsule vers Gorm Caladh.",
         "categorie": "cartographie",
         "faction_id": "1",
+        "guarded": "false",
         "id": "56",
         "itineraire": "Liaison vers Calvaire",
         "map_id": "1",
@@ -6520,13 +6521,13 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers Calvaire (de Saint Arpan à Sainte Nihesk)",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Une fois passée la pointe sud les eaux sont relativement plus clémentes. De là, il est possible de rallier les quatre villages-monastères et de revenir sur la péninsule vers Gorm Caladh.",
         "categorie": "cartographie",
         "faction_id": "1",
+        "guarded": "false",
         "id": "57",
         "itineraire": "Liaison vers Calvaire",
         "map_id": "1",
@@ -6537,13 +6538,13 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers Calvaire (de Saint Heskenen à Saint Persked)",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Une fois passée la pointe sud les eaux sont relativement plus clémentes. De là, il est possible de rallier les quatre villages-monastères et de revenir sur la péninsule vers Gorm Caladh.",
         "categorie": "cartographie",
         "faction_id": "1",
+        "guarded": "false",
         "id": "58",
         "itineraire": "Liaison vers Calvaire",
         "map_id": "1",
@@ -6554,14 +6555,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers Calvaire (de Sainte Nihesk à Saint Heskenen)",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Si le capitaine de la caraque est parvenu sortir du courant vers le grand large pour rejoindre la pointe nord de l'île du Calvaire, il doit ensuite longer toute la côte ouest de l'île en évitant les écueils avant de pouvoir enfin passer la pointe sud et rejoindre des eaux relativement plus clémentes.",
         "categorie": "cartographie",
         "created": "20150523101512060",
         "faction_id": "1",
+        "guarded": "false",
         "id": "59",
         "itineraire": "Liaison vers Calvaire",
         "map_id": "1",
@@ -6572,14 +6573,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers Calvaire (du Roc à la pointe ouest)",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Ce chemin mène au promontoire où se trouve le sanctuaire demorthèn du \"belvédère de l'est\".",
         "categorie": "cartographie",
         "created": "20150330132944980",
         "faction_id": "3",
+        "guarded": "false",
         "id": "6",
         "map_id": "1",
         "markerend_id": "12",
@@ -6589,14 +6590,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Chemin vers Fairean Ear",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "La navigation vers les îles de l'archipel peut être compliquée par les conditions climatiques, oscillant fréquemment entre le froid hivernal et les diverses émanations volcaniques.",
         "categorie": "cartographie",
         "created": "20150524070252112",
         "faction_id": "2",
+        "guarded": "false",
         "id": "60",
         "itineraire": "",
         "map_id": "1",
@@ -6607,14 +6608,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers l'Archipel des Cendres (depuis Clos-des-Cendres)",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "La navigation vers les îles de l'archipel peut être compliquée par les conditions climatiques, oscillant fréquemment entre le froid hivernal et les diverses émanations volcaniques.",
         "categorie": "cartographie",
         "created": "20150524071109886",
         "faction_id": "1",
+        "guarded": "false",
         "id": "61",
         "itineraire": "",
         "map_id": "1",
@@ -6625,14 +6626,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers l'Archipel des Cendres (depuis Fionnfuar)",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Comme l'île est bordée de récifs, la seule période favorable pour y accoster est au début de l'été, entre la mi-Ogmhios et la fin de Luchar, quand les courants sont plus stables. Le reste de l'année, seuls quelques passeurs de Koskan, des fous qui disent s'être abreuvés à la source aux Fols, acceptent de faire la traversée.",
         "categorie": "cartographie",
         "created": "20150425140351062",
         "faction_id": "4",
+        "guarded": "false",
         "id": "62",
         "map_id": "1",
         "markerend_id": "103",
@@ -6642,14 +6643,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers l'île aux Cairns",
-        "zoneparent_id": "36",
-        "guarded": "false"
+        "zoneparent_id": "36"
     },
     {
         "text": "La traversée vers l'archipel des Trois Sœurs s'effectue en caraque, et seulement à la belle saison et par temps clair, à cause des hauts-fonds. L'accostage ne peut se faire que sur la côte occidentale de l'île de Tir na Loch, où se trouve le port de Màn Atlach destiné aux échanges entre les Tri-Kazeliens et les îliens.",
         "categorie": "cartographie",
         "created": "20150425144231846",
         "faction_id": "4",
+        "guarded": "false",
         "id": "63",
         "map_id": "1",
         "markerend_id": "95",
@@ -6659,14 +6660,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers les Tri-Sweszörs",
-        "zoneparent_id": "36",
-        "guarded": "false"
+        "zoneparent_id": "36"
     },
     {
         "text": "La traversée de Farl vers Mornegivre, sur l'océan Furieux où les tempêtes glaciales sont fréquentes, est par nature incertaine, et rares sont les capitaines qui accepteront d'y risquer leur caraque.",
         "categorie": "cartographie",
         "created": "20150416124030385",
         "faction_id": "4",
+        "guarded": "false",
         "id": "64",
         "map_id": "1",
         "markerend_id": "104",
@@ -6676,14 +6677,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Liaison vers Mornegivre",
-        "zoneparent_id": "40",
-        "guarded": "false"
+        "zoneparent_id": "40"
     },
     {
         "text": "Cette route pavée relie l'ancienne capitale, Tuaille, à la nouvelle, Osta-Baille. Entretenue tant bien que mal par la guilde des Paveurs, elle passe par Merieren, à l'embouchure du Klaedhin. Elle est très fréquentée par les voyageurs et les caravanes, bien que ceux qui peuvent se le payer préfèrent naviguer sur le cours tranquille du fleuve.",
         "categorie": "cartographie",
         "created": "20150528122134409",
         "faction_id": "13",
+        "guarded": "false",
         "id": "65",
         "itineraire": "Route des capitales",
         "map_id": "1",
@@ -6694,14 +6695,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Route des capitales (de Merieren à Osta-Baille)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route est très fréquentée par les chevaliers hilderins, notamment entre Osta-Baille et Ard-Monach. Des brigands sévissent parfois autour de cette dernière. Au-delà, vers Caiginn, la route n'est pas toujours pavée.",
         "categorie": "cartographie",
         "created": "20150529071756111",
         "faction_id": "14",
+        "guarded": "false",
         "id": "66",
         "itineraire": "Route des Hilderins",
         "map_id": "1",
@@ -6712,14 +6713,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Route des Hilderins (d'Ard-Monach au carrefour de Frendian)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route est très fréquentée par les chevaliers hilderins, notamment entre Osta-Baille et Ard-Monach.",
         "categorie": "cartographie",
         "created": "20150424084419154",
         "faction_id": "14",
+        "guarded": "false",
         "id": "67",
         "itineraire": "Route des Hilderins",
         "map_id": "1",
@@ -6730,14 +6731,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Route des Hilderins (d'Osta-Baille à Mùdan)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route est très fréquentée par les chevaliers hilderins, notamment entre Osta-Baille et Ard-Monach. Des brigands sévissent parfois autour de cette dernière.",
         "categorie": "cartographie",
         "created": "20150423113439110",
         "faction_id": "14",
+        "guarded": "false",
         "id": "68",
         "itineraire": "Route des Hilderins",
         "map_id": "1",
@@ -6748,14 +6749,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Route des Hilderins (de Mùdan à Ard-Monach)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150528144647059",
         "faction_id": "11",
+        "guarded": "false",
         "id": "69",
         "itineraire": "",
         "map_id": "1",
@@ -6766,14 +6767,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Sentier vers la pointe de Hòb",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150330133151418",
         "faction_id": "",
+        "guarded": "false",
         "id": "7",
         "map_id": "1",
         "markerend_id": "14",
@@ -6783,14 +6784,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Kalvernach est",
-        "zoneparent_id": "57",
-        "guarded": "false"
+        "zoneparent_id": "57"
     },
     {
         "text": "Des embarcations traversent l'embouchure du Donir, pour permettre notamment aux travailleurs du nouveau port, Nua Caladh, de se rendre à l'ancien port, Ear Caladh.",
         "categorie": "cartographie",
         "created": "20150428185147199",
         "faction_id": "4",
+        "guarded": "false",
         "id": "70",
         "map_id": "1",
         "markerend_id": "98",
@@ -6800,14 +6801,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Traversée Ear Caladh - Nua Caladh",
-        "zoneparent_id": "36",
-        "guarded": "false"
+        "zoneparent_id": "36"
     },
     {
         "text": "Cette route relie Expiation, l'un des principaux lieux de pèlerinage du royaume de Gwidre, à la capitale. Ce voyage, ponctué de monastères, est l'occasion de se purifier avant d'arriver à Ard-Amrach pour y participer à des cérémonies rituelles. C'est l'une des rares routes bien entretenues qui permettent de traverser en relative sécurité les dangereuses Mòr Roimh.",
         "categorie": "cartographie",
         "created": "20150529123414737",
         "faction_id": "1",
+        "guarded": "false",
         "id": "71",
         "itineraire": "Voie des pèlerins",
         "map_id": "1",
@@ -6818,14 +6819,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Voie des pèlerins (d'Expiation au carrefour du pic Ordachaï)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route relie Expiation, l'un des principaux lieux de pèlerinage du royaume de Gwidre, à la capitale. Ce voyage, ponctué de monastères, est l'occasion de se purifier avant d'arriver à Ard-Amrach pour y participer à des cérémonies rituelles.",
         "categorie": "cartographie",
         "created": "20150408212054465",
         "faction_id": "1",
+        "guarded": "false",
         "id": "72",
         "itineraire": "Voie des pèlerins",
         "map_id": "1",
@@ -6836,14 +6837,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Voie des pèlerins (de Rhingal à Ard-Amrach)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331120557541",
         "faction_id": "15",
+        "guarded": "false",
         "id": "73",
         "itineraire": "",
         "map_id": "1",
@@ -6854,14 +6855,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin du carrefour de l'adret des Gisants à Expiation",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route relie Expiation, l'un des principaux lieux de pèlerinage du royaume de Gwidre, à la capitale. Ce voyage, ponctué de monastères, est l'occasion de se purifier avant d'arriver à Ard-Amrach pour y participer à des cérémonies rituelles. C'est l'une des rares routes bien entretenues qui permettent de traverser en relative sécurité les dangereuses Mòr Roimh.",
         "categorie": "cartographie",
         "created": "20150331120443326",
         "faction_id": "1",
+        "guarded": "false",
         "id": "74",
         "itineraire": "Voie des pèlerins",
         "map_id": "1",
@@ -6872,14 +6873,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Voie des pèlerins (du carrefour du pic Ordachaï au carrefour du pic Venteux)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route relie Expiation, l'un des principaux lieux de pèlerinage du royaume de Gwidre, à la capitale. Ce voyage, ponctué de monastères, est l'occasion de se purifier avant d'arriver à Ard-Amrach pour y participer à des cérémonies rituelles. C'est l'une des rares routes bien entretenues qui permettent de traverser en relative sécurité les dangereuses Mòr Roimh.",
         "categorie": "cartographie",
         "created": "20150331120308623",
         "faction_id": "1",
+        "guarded": "false",
         "id": "75",
         "itineraire": "Voie des pèlerins",
         "map_id": "1",
@@ -6890,14 +6891,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Voie des pèlerins (du carrefour du pic Venteux à Rhingal)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Ce chemin tortueux et abrupt permet de rejoindre la communauté autarcique de Haut-Mùdan. Il est surveillé de près et ses alentours sont piégés.",
         "categorie": "cartographie",
         "created": "20150424084435837",
         "faction_id": "3",
+        "guarded": "false",
         "id": "76",
         "map_id": "1",
         "markerend_id": "61",
@@ -6907,14 +6908,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Chemin de Mùdan au Haut-Mùdan",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Ce chemin permet de rejoindre Frendian depuis la route des Hilderins. Lorsque l'on pénètre dans le comté, les montagnes aux bois sombres s'ouvrent sur une vallée lumineuse et sereine.",
         "categorie": "cartographie",
         "created": "20150331125634223",
         "faction_id": "15",
+        "guarded": "false",
         "id": "77",
         "map_id": "1",
         "markerend_id": "56",
@@ -6924,14 +6925,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Chemin vers Frendian (depuis la route des Hilderins)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Cette route relie Kermordhran au Clos-des-Cendres. Des angardes bien entretenues la jalonnent, et des patrouilles la parcourent régulièrement.",
         "categorie": "cartographie",
         "created": "20150604083457642",
         "faction_id": "2",
+        "guarded": "false",
         "id": "78",
         "itineraire": "Route de la mer",
         "map_id": "1",
@@ -6942,14 +6943,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de la mer (du carrefour du cirque d'Argoneskan au carrefour des Cendres)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "La Voie sainte relie la capitale gwidrite, Ard-Amrach, à la ville sainte de Fionnfuar.",
         "categorie": "cartographie",
         "created": "20150603121135115",
         "faction_id": "1",
+        "guarded": "false",
         "id": "79",
         "itineraire": "Voie sainte",
         "map_id": "1",
@@ -6960,14 +6961,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Voie sainte (de Deh'ad à Fionnfuar)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Les deux ponts de Kember, nœuds de la stratégie royale pour le contrôle des infrastructures de transport, se rejoignent sur une vaste place de marché, encore en terre battue pour le moment.",
         "categorie": "cartographie",
         "created": "20150330133519582",
         "faction_id": "",
+        "guarded": "false",
         "id": "8",
         "map_id": "1",
         "markerend_id": "17",
@@ -6977,14 +6978,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Routes de Kember",
-        "zoneparent_id": "2",
-        "guarded": "false"
+        "zoneparent_id": "2"
     },
     {
         "text": "Ce chemin permet de joindre Nectan à Deh'ad. Moins utilisé que la célèbre Voie sainte, il suit la lisière entre la forêt du Dorchwald et les contreforts des Mòr Roimh.",
         "categorie": "cartographie",
         "created": "20150603121102874",
         "faction_id": "15",
+        "guarded": "false",
         "id": "80",
         "itineraire": "Route du Dorchwald",
         "map_id": "1",
@@ -6995,14 +6996,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Route du Dorchwald (de Lenbach au carrefour de Corvus)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Ce chemin est le plus sûr permettant de relier Kell et Kermordhran à travers les montagnes hostiles. Tout le long de la piste, des clascadh, d'anciens abris en pierre en forme de dôme, permettent aux voyageurs de s'abriter du vent et du froid.",
         "categorie": "cartographie",
         "created": "20150331114043182",
         "faction_id": "15",
+        "guarded": "false",
         "id": "81",
         "itineraire": "Route Grise",
         "map_id": "1",
@@ -7013,14 +7014,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Route Grise (de Kell au Château des Nevermore)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Ce chemin est le plus sûr permettant de relier Kell et Kermordhran à travers les montagnes hostiles. Tout le long de la piste, des clascadh, d'anciens abris en pierre en forme de dôme, permettent aux voyageurs de s'abriter du vent et du froid.",
         "categorie": "cartographie",
         "created": "20150602095952735",
         "faction_id": "15",
+        "guarded": "false",
         "id": "82",
         "itineraire": "Route Grise",
         "map_id": "1",
@@ -7031,14 +7032,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Route Grise (du Château des Nevermore à Kermordhran)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Le sentier qui mène à l'adret des Gisants est interdit par des pancartes posées par les sigires. Les varigaux, prévenus par des stermerks, n'y montent plus, laissant leurs clients finir seuls l'ascension. Si le sentier est souvent environné de brumes, un temps ensoleillé révèle les ossements de tous ceux morts là.",
         "categorie": "cartographie",
         "created": "20150402091531181",
         "faction_id": "15",
+        "guarded": "false",
         "id": "83",
         "map_id": "1",
         "markerend_id": "107",
@@ -7048,14 +7049,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Sentier de l'adret des Gisants",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Ni demorthèn ni fidèles du Temple n'empruntent plus cet ancien chemin depuis la destruction du liagcal et l'abandon de l'église qui l'avait remplacé. Des stermerks, les signes utilisés par les varigaux, préviennent ces derniers des dangers du lieu.",
         "categorie": "cartographie",
         "created": "20150603125205372",
         "faction_id": "15",
+        "guarded": "false",
         "id": "84",
         "itineraire": "",
         "map_id": "1",
@@ -7066,14 +7067,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Sentier des Pierres Brisées",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Peu d'aventuriers empruntent cette sente pour se rendre dans le cirque d'Argoneskan.",
         "categorie": "cartographie",
         "created": "20150604083913839",
         "faction_id": "15",
+        "guarded": "false",
         "id": "85",
         "itineraire": "",
         "map_id": "1",
@@ -7084,14 +7085,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Sentier du cirque d'Argoneskan",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Ce sentier permet de se rendre au Monastère de Sainte Velathys, qui se tient à l'écart de la Voie des pèlerins, sur les flancs du pic Venteux.",
         "categorie": "cartographie",
         "created": "20150402154723350",
         "faction_id": "15",
+        "guarded": "false",
         "id": "86",
         "map_id": "1",
         "markerend_id": "97",
@@ -7101,14 +7102,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Sentier du Monastère du pic Venteux",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "Ce chemin permet de joindre Nectan à Deh'ad. Moins utilisé que la célèbre Voie sainte, il suit la lisière entre la forêt du Dorchwald et les contreforts des Mòr Roimh.",
         "categorie": "cartographie",
         "created": "20150715201921545",
         "faction_id": "15",
+        "guarded": "false",
         "id": "87",
         "itineraire": "Route du Dorchwald",
         "map_id": "1",
@@ -7119,14 +7120,14 @@
         "status": "done",
         "tags": "routes",
         "title": "Route du Dorchwald (du carrefour des Pierres Brisées à Deh'ad)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150720203141261",
         "faction_id": "11",
+        "guarded": "false",
         "id": "88",
         "itineraire": "Route de l'Océan",
         "map_id": "1",
@@ -7137,14 +7138,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Bac de l'embouchure du Kreizhdour",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150720201743957",
         "faction_id": "",
+        "guarded": "false",
         "id": "89",
         "itineraire": "Route des Hilderins",
         "map_id": "1",
@@ -7155,14 +7156,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Didean à Louarn",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150330133724682",
         "faction_id": "9",
+        "guarded": "false",
         "id": "9",
         "map_id": "1",
         "markerend_id": "18",
@@ -7172,14 +7173,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de Gwidre (du pont sur le Donir de Kember au château des Mac Emmanon)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331122722234",
         "faction_id": "",
+        "guarded": "false",
         "id": "90",
         "itineraire": "Route des Hilderins",
         "map_id": "1",
@@ -7190,14 +7191,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de la Citadelle de Dèas à Didean",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331121829633",
         "faction_id": "",
+        "guarded": "false",
         "id": "91",
         "itineraire": "Route des Hilderins",
         "map_id": "1",
@@ -7208,14 +7209,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Llewellen à Tulg Naomh",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331122120529",
         "faction_id": "",
+        "guarded": "false",
         "id": "92",
         "itineraire": "Route des Hilderins",
         "map_id": "1",
@@ -7226,14 +7227,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Louarn à Llewellen",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331115202231",
         "faction_id": "1",
+        "guarded": "false",
         "id": "93",
         "itineraire": "Chemin de Norgord",
         "map_id": "1",
@@ -7244,14 +7245,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Norgord (des carrières de Norgord à l'abbaye de Corvus)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150721221202405",
         "faction_id": "2",
+        "guarded": "false",
         "id": "94",
         "itineraire": "",
         "map_id": "1",
@@ -7262,14 +7263,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Promesse",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150721215408490",
         "faction_id": "15",
+        "guarded": "false",
         "id": "95",
         "itineraire": "Chemin de Ruel",
         "map_id": "1",
@@ -7280,14 +7281,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Ruel (d'Ard-Monach au carrefour de Ruel)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150721215339800",
         "faction_id": "15",
+        "guarded": "false",
         "id": "96",
         "itineraire": "Chemin de Ruel",
         "map_id": "1",
@@ -7298,14 +7299,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Ruel (du carrefour de Jarnel à Kaer Daegis)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150721215354996",
         "faction_id": "15",
+        "guarded": "false",
         "id": "97",
         "itineraire": "Chemin de Ruel",
         "map_id": "1",
@@ -7316,14 +7317,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Chemin de Ruel (du carrefour de Ruel au carrefour de Jarnel)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150331120726300",
         "faction_id": "4",
+        "guarded": "false",
         "id": "98",
         "itineraire": "Route de l'Océan",
         "map_id": "1",
@@ -7334,14 +7335,14 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Océan (d'Aimliù à Diinthër)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     },
     {
         "text": "",
         "categorie": "cartographie",
         "created": "20150720203924438",
         "faction_id": "11",
+        "guarded": "false",
         "id": "99",
         "itineraire": "Route de l'Océan",
         "map_id": "1",
@@ -7352,7 +7353,6 @@
         "status": "à revoir",
         "tags": "routes",
         "title": "Route de l'Océan (de Diinthër à Ard-Amrach)",
-        "zoneparent_id": "",
-        "guarded": "false"
+        "zoneparent_id": ""
     }
 ]
