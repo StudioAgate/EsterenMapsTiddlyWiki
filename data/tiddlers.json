@@ -1082,7 +1082,7 @@
         "categorie": "cartographie",
         "created": "20150323162700216",
         "faction_id": "9",
-        "id": "id_Duché de Tulg",
+        "id": "58",
         "map_id": "1",
         "modified": "20150608111558098",
         "status": "à revoir",
@@ -1096,7 +1096,7 @@
         "categorie": "cartographie",
         "created": "20150323162727857",
         "faction_id": "9",
-        "id": "id_Duché de Dùlan",
+        "id": "59",
         "map_id": "1",
         "modified": "20150608110245416",
         "status": "à revoir",
@@ -1110,7 +1110,7 @@
         "categorie": "cartographie",
         "created": "20150323162749143",
         "faction_id": "9",
-        "id": "id_Duché d'Osta-Baille",
+        "id": "60",
         "map_id": "1",
         "modified": "20150608103212365",
         "status": "à revoir",
@@ -1124,7 +1124,7 @@
         "categorie": "cartographie",
         "created": "20150323162816164",
         "faction_id": "9",
-        "id": "id_Duché de Gorm",
+        "id": "61",
         "map_id": "1",
         "modified": "20150608102249442",
         "status": "à revoir",
@@ -1138,7 +1138,7 @@
         "categorie": "cartographie",
         "created": "20150323162844427",
         "faction_id": "9",
-        "id": "id_Duché de Seòl",
+        "id": "62",
         "map_id": "1",
         "modified": "20150608104016105",
         "status": "à revoir",
@@ -7494,3 +7494,4 @@
         "zoneparent_id": "56"
     }
 ]
+
